@@ -1,0 +1,2781 @@
+car,model_year,country,attribute,value
+chevrolet chevelle malibu,1970,USA,No. of Cylinders,8.0
+buick skylark 320,1970,USA,No. of Cylinders,8.0
+plymouth satellite,1970,USA,No. of Cylinders,8.0
+amc rebel sst,1970,USA,No. of Cylinders,8.0
+ford torino,1970,USA,No. of Cylinders,8.0
+ford galaxie 500,1970,USA,No. of Cylinders,8.0
+chevrolet impala,1970,USA,No. of Cylinders,8.0
+plymouth fury iii,1970,USA,No. of Cylinders,8.0
+pontiac catalina,1970,USA,No. of Cylinders,8.0
+amc ambassador dpl,1970,USA,No. of Cylinders,8.0
+dodge challenger se,1970,USA,No. of Cylinders,8.0
+plymouth 'cuda 340,1970,USA,No. of Cylinders,8.0
+chevrolet monte carlo,1970,USA,No. of Cylinders,8.0
+buick estate wagon (sw),1970,USA,No. of Cylinders,8.0
+toyota corona mark ii,1970,Japan,No. of Cylinders,4.0
+plymouth duster,1970,USA,No. of Cylinders,6.0
+amc hornet,1970,USA,No. of Cylinders,6.0
+ford maverick,1970,USA,No. of Cylinders,6.0
+datsun pl510,1970,Japan,No. of Cylinders,4.0
+volkswagen 1131 deluxe sedan,1970,Europe,No. of Cylinders,4.0
+peugeot 504,1970,Europe,No. of Cylinders,4.0
+audi 100 ls,1970,Europe,No. of Cylinders,4.0
+saab 99e,1970,Europe,No. of Cylinders,4.0
+bmw 2002,1970,Europe,No. of Cylinders,4.0
+amc gremlin,1970,USA,No. of Cylinders,6.0
+ford f250,1970,USA,No. of Cylinders,8.0
+chevy c20,1970,USA,No. of Cylinders,8.0
+dodge d200,1970,USA,No. of Cylinders,8.0
+hi 1200d,1970,USA,No. of Cylinders,8.0
+datsun pl510,1971,Japan,No. of Cylinders,4.0
+chevrolet vega 2300,1971,USA,No. of Cylinders,4.0
+toyota corona,1971,Japan,No. of Cylinders,4.0
+ford pinto,1971,USA,No. of Cylinders,4.0
+amc gremlin,1971,USA,No. of Cylinders,6.0
+plymouth satellite custom,1971,USA,No. of Cylinders,6.0
+chevrolet chevelle malibu,1971,USA,No. of Cylinders,6.0
+ford torino 500,1971,USA,No. of Cylinders,6.0
+amc matador,1971,USA,No. of Cylinders,6.0
+chevrolet impala,1971,USA,No. of Cylinders,8.0
+pontiac catalina brougham,1971,USA,No. of Cylinders,8.0
+ford galaxie 500,1971,USA,No. of Cylinders,8.0
+plymouth fury iii,1971,USA,No. of Cylinders,8.0
+dodge monaco (sw),1971,USA,No. of Cylinders,8.0
+ford country squire (sw),1971,USA,No. of Cylinders,8.0
+pontiac safari (sw),1971,USA,No. of Cylinders,8.0
+amc hornet sportabout (sw),1971,USA,No. of Cylinders,6.0
+chevrolet vega (sw),1971,USA,No. of Cylinders,4.0
+pontiac firebird,1971,USA,No. of Cylinders,6.0
+ford mustang,1971,USA,No. of Cylinders,6.0
+mercury capri 2000,1971,USA,No. of Cylinders,4.0
+opel 1900,1971,Europe,No. of Cylinders,4.0
+peugeot 304,1971,Europe,No. of Cylinders,4.0
+fiat 124b,1971,Europe,No. of Cylinders,4.0
+toyota corolla 1200,1971,Japan,No. of Cylinders,4.0
+datsun 1200,1971,Japan,No. of Cylinders,4.0
+volkswagen model 111,1971,Europe,No. of Cylinders,4.0
+plymouth cricket,1971,USA,No. of Cylinders,4.0
+toyota corona hardtop,1972,Japan,No. of Cylinders,4.0
+dodge colt hardtop,1972,USA,No. of Cylinders,4.0
+volkswagen type 3,1972,Europe,No. of Cylinders,4.0
+chevrolet vega,1972,USA,No. of Cylinders,4.0
+ford pinto runabout,1972,USA,No. of Cylinders,4.0
+chevrolet impala,1972,USA,No. of Cylinders,8.0
+pontiac catalina,1972,USA,No. of Cylinders,8.0
+plymouth fury iii,1972,USA,No. of Cylinders,8.0
+ford galaxie 500,1972,USA,No. of Cylinders,8.0
+amc ambassador sst,1972,USA,No. of Cylinders,8.0
+mercury marquis,1972,USA,No. of Cylinders,8.0
+buick lesabre custom,1972,USA,No. of Cylinders,8.0
+oldsmobile delta 88 royale,1972,USA,No. of Cylinders,8.0
+chrysler newport royal,1972,USA,No. of Cylinders,8.0
+mazda rx2 coupe,1972,Japan,No. of Cylinders,3.0
+amc matador (sw),1972,USA,No. of Cylinders,8.0
+chevrolet chevelle concours (sw),1972,USA,No. of Cylinders,8.0
+ford gran torino (sw),1972,USA,No. of Cylinders,8.0
+plymouth satellite custom (sw),1972,USA,No. of Cylinders,8.0
+volvo 145e (sw),1972,Europe,No. of Cylinders,4.0
+volkswagen 411 (sw),1972,Europe,No. of Cylinders,4.0
+peugeot 504 (sw),1972,Europe,No. of Cylinders,4.0
+renault 12 (sw),1972,Europe,No. of Cylinders,4.0
+ford pinto (sw),1972,USA,No. of Cylinders,4.0
+datsun 510 (sw),1972,Japan,No. of Cylinders,4.0
+toyouta corona mark ii (sw),1972,Japan,No. of Cylinders,4.0
+dodge colt (sw),1972,USA,No. of Cylinders,4.0
+toyota corolla 1600 (sw),1972,Japan,No. of Cylinders,4.0
+buick century 350,1973,USA,No. of Cylinders,8.0
+amc matador,1973,USA,No. of Cylinders,8.0
+chevrolet malibu,1973,USA,No. of Cylinders,8.0
+ford gran torino,1973,USA,No. of Cylinders,8.0
+dodge coronet custom,1973,USA,No. of Cylinders,8.0
+mercury marquis brougham,1973,USA,No. of Cylinders,8.0
+chevrolet caprice classic,1973,USA,No. of Cylinders,8.0
+ford ltd,1973,USA,No. of Cylinders,8.0
+plymouth fury gran sedan,1973,USA,No. of Cylinders,8.0
+chrysler new yorker brougham,1973,USA,No. of Cylinders,8.0
+buick electra 225 custom,1973,USA,No. of Cylinders,8.0
+amc ambassador brougham,1973,USA,No. of Cylinders,8.0
+plymouth valiant,1973,USA,No. of Cylinders,6.0
+chevrolet nova custom,1973,USA,No. of Cylinders,6.0
+amc hornet,1973,USA,No. of Cylinders,6.0
+ford maverick,1973,USA,No. of Cylinders,6.0
+plymouth duster,1973,USA,No. of Cylinders,6.0
+volkswagen super beetle,1973,Europe,No. of Cylinders,4.0
+chevrolet impala,1973,USA,No. of Cylinders,8.0
+ford country,1973,USA,No. of Cylinders,8.0
+plymouth custom suburb,1973,USA,No. of Cylinders,8.0
+oldsmobile vista cruiser,1973,USA,No. of Cylinders,8.0
+amc gremlin,1973,USA,No. of Cylinders,6.0
+toyota carina,1973,Japan,No. of Cylinders,4.0
+chevrolet vega,1973,USA,No. of Cylinders,4.0
+datsun 610,1973,Japan,No. of Cylinders,4.0
+maxda rx3,1973,Japan,No. of Cylinders,3.0
+ford pinto,1973,USA,No. of Cylinders,4.0
+mercury capri v6,1973,USA,No. of Cylinders,6.0
+fiat 124 sport coupe,1973,Europe,No. of Cylinders,4.0
+chevrolet monte carlo s,1973,USA,No. of Cylinders,8.0
+pontiac grand prix,1973,USA,No. of Cylinders,8.0
+fiat 128,1973,Europe,No. of Cylinders,4.0
+opel manta,1973,Europe,No. of Cylinders,4.0
+audi 100ls,1973,Europe,No. of Cylinders,4.0
+volvo 144ea,1973,Europe,No. of Cylinders,4.0
+dodge dart custom,1973,USA,No. of Cylinders,8.0
+saab 99le,1973,Europe,No. of Cylinders,4.0
+toyota mark ii,1973,Japan,No. of Cylinders,6.0
+oldsmobile omega,1973,USA,No. of Cylinders,8.0
+plymouth duster,1974,USA,No. of Cylinders,6.0
+ford maverick,1974,USA,No. of Cylinders,6.0
+amc hornet,1974,USA,No. of Cylinders,6.0
+chevrolet nova,1974,USA,No. of Cylinders,6.0
+datsun b210,1974,Japan,No. of Cylinders,4.0
+ford pinto,1974,USA,No. of Cylinders,4.0
+toyota corolla 1200,1974,Japan,No. of Cylinders,4.0
+chevrolet vega,1974,USA,No. of Cylinders,4.0
+chevrolet chevelle malibu classic,1974,USA,No. of Cylinders,6.0
+amc matador,1974,USA,No. of Cylinders,6.0
+plymouth satellite sebring,1974,USA,No. of Cylinders,6.0
+ford gran torino,1974,USA,No. of Cylinders,8.0
+buick century luxus (sw),1974,USA,No. of Cylinders,8.0
+dodge coronet custom (sw),1974,USA,No. of Cylinders,8.0
+ford gran torino (sw),1974,USA,No. of Cylinders,8.0
+amc matador (sw),1974,USA,No. of Cylinders,8.0
+audi fox,1974,Europe,No. of Cylinders,4.0
+volkswagen dasher,1974,Europe,No. of Cylinders,4.0
+opel manta,1974,Europe,No. of Cylinders,4.0
+toyota corona,1974,Japan,No. of Cylinders,4.0
+datsun 710,1974,Japan,No. of Cylinders,4.0
+dodge colt,1974,USA,No. of Cylinders,4.0
+fiat 128,1974,Europe,No. of Cylinders,4.0
+fiat 124 tc,1974,Europe,No. of Cylinders,4.0
+honda civic,1974,Japan,No. of Cylinders,4.0
+subaru,1974,Japan,No. of Cylinders,4.0
+fiat x1.9,1974,Europe,No. of Cylinders,4.0
+plymouth valiant custom,1975,USA,No. of Cylinders,6.0
+chevrolet nova,1975,USA,No. of Cylinders,6.0
+mercury monarch,1975,USA,No. of Cylinders,6.0
+ford maverick,1975,USA,No. of Cylinders,6.0
+pontiac catalina,1975,USA,No. of Cylinders,8.0
+chevrolet bel air,1975,USA,No. of Cylinders,8.0
+plymouth grand fury,1975,USA,No. of Cylinders,8.0
+ford ltd,1975,USA,No. of Cylinders,8.0
+buick century,1975,USA,No. of Cylinders,6.0
+chevroelt chevelle malibu,1975,USA,No. of Cylinders,6.0
+amc matador,1975,USA,No. of Cylinders,6.0
+plymouth fury,1975,USA,No. of Cylinders,6.0
+buick skyhawk,1975,USA,No. of Cylinders,6.0
+chevrolet monza 2+2,1975,USA,No. of Cylinders,8.0
+ford mustang ii,1975,USA,No. of Cylinders,8.0
+toyota corolla,1975,Japan,No. of Cylinders,4.0
+ford pinto,1975,USA,No. of Cylinders,4.0
+amc gremlin,1975,USA,No. of Cylinders,6.0
+pontiac astro,1975,USA,No. of Cylinders,4.0
+toyota corona,1975,Japan,No. of Cylinders,4.0
+volkswagen dasher,1975,Europe,No. of Cylinders,4.0
+datsun 710,1975,Japan,No. of Cylinders,4.0
+ford pinto,1975,USA,No. of Cylinders,6.0
+volkswagen rabbit,1975,Europe,No. of Cylinders,4.0
+amc pacer,1975,USA,No. of Cylinders,6.0
+audi 100ls,1975,Europe,No. of Cylinders,4.0
+peugeot 504,1975,Europe,No. of Cylinders,4.0
+volvo 244dl,1975,Europe,No. of Cylinders,4.0
+saab 99le,1975,Europe,No. of Cylinders,4.0
+honda civic cvcc,1975,Japan,No. of Cylinders,4.0
+fiat 131,1976,Europe,No. of Cylinders,4.0
+opel 1900,1976,Europe,No. of Cylinders,4.0
+capri ii,1976,USA,No. of Cylinders,4.0
+dodge colt,1976,USA,No. of Cylinders,4.0
+renault 12tl,1976,Europe,No. of Cylinders,4.0
+chevrolet chevelle malibu classic,1976,USA,No. of Cylinders,8.0
+dodge coronet brougham,1976,USA,No. of Cylinders,8.0
+amc matador,1976,USA,No. of Cylinders,8.0
+ford gran torino,1976,USA,No. of Cylinders,8.0
+plymouth valiant,1976,USA,No. of Cylinders,6.0
+chevrolet nova,1976,USA,No. of Cylinders,6.0
+ford maverick,1976,USA,No. of Cylinders,6.0
+amc hornet,1976,USA,No. of Cylinders,6.0
+chevrolet chevette,1976,USA,No. of Cylinders,4.0
+chevrolet woody,1976,USA,No. of Cylinders,4.0
+vw rabbit,1976,Europe,No. of Cylinders,4.0
+honda civic,1976,Japan,No. of Cylinders,4.0
+dodge aspen se,1976,USA,No. of Cylinders,6.0
+ford granada ghia,1976,USA,No. of Cylinders,6.0
+pontiac ventura sj,1976,USA,No. of Cylinders,6.0
+amc pacer d/l,1976,USA,No. of Cylinders,6.0
+volkswagen rabbit,1976,Europe,No. of Cylinders,4.0
+datsun b-210,1976,Japan,No. of Cylinders,4.0
+toyota corolla,1976,Japan,No. of Cylinders,4.0
+ford pinto,1976,USA,No. of Cylinders,4.0
+volvo 245,1976,Europe,No. of Cylinders,4.0
+plymouth volare premier v8,1976,USA,No. of Cylinders,8.0
+peugeot 504,1976,Europe,No. of Cylinders,4.0
+toyota mark ii,1976,Japan,No. of Cylinders,6.0
+mercedes-benz 280s,1976,Europe,No. of Cylinders,6.0
+cadillac seville,1976,USA,No. of Cylinders,8.0
+chevy c10,1976,USA,No. of Cylinders,8.0
+ford f108,1976,USA,No. of Cylinders,8.0
+dodge d100,1976,USA,No. of Cylinders,8.0
+honda accord cvcc,1977,Japan,No. of Cylinders,4.0
+buick opel isuzu deluxe,1977,USA,No. of Cylinders,4.0
+renault 5 gtl,1977,Europe,No. of Cylinders,4.0
+plymouth arrow gs,1977,USA,No. of Cylinders,4.0
+datsun f-10 hatchback,1977,Japan,No. of Cylinders,4.0
+chevrolet caprice classic,1977,USA,No. of Cylinders,8.0
+oldsmobile cutlass supreme,1977,USA,No. of Cylinders,8.0
+dodge monaco brougham,1977,USA,No. of Cylinders,8.0
+mercury cougar brougham,1977,USA,No. of Cylinders,8.0
+chevrolet concours,1977,USA,No. of Cylinders,6.0
+buick skylark,1977,USA,No. of Cylinders,6.0
+plymouth volare custom,1977,USA,No. of Cylinders,6.0
+ford granada,1977,USA,No. of Cylinders,6.0
+pontiac grand prix lj,1977,USA,No. of Cylinders,8.0
+chevrolet monte carlo landau,1977,USA,No. of Cylinders,8.0
+chrysler cordoba,1977,USA,No. of Cylinders,8.0
+ford thunderbird,1977,USA,No. of Cylinders,8.0
+volkswagen rabbit custom,1977,Europe,No. of Cylinders,4.0
+pontiac sunbird coupe,1977,USA,No. of Cylinders,4.0
+toyota corolla liftback,1977,Japan,No. of Cylinders,4.0
+ford mustang ii 2+2,1977,USA,No. of Cylinders,4.0
+chevrolet chevette,1977,USA,No. of Cylinders,4.0
+dodge colt m/m,1977,USA,No. of Cylinders,4.0
+subaru dl,1977,Japan,No. of Cylinders,4.0
+volkswagen dasher,1977,Europe,No. of Cylinders,4.0
+datsun 810,1977,Japan,No. of Cylinders,6.0
+bmw 320i,1977,Europe,No. of Cylinders,4.0
+mazda rx-4,1977,Japan,No. of Cylinders,3.0
+volkswagen rabbit custom diesel,1978,Europe,No. of Cylinders,4.0
+ford fiesta,1978,USA,No. of Cylinders,4.0
+mazda glc deluxe,1978,Japan,No. of Cylinders,4.0
+datsun b210 gx,1978,Japan,No. of Cylinders,4.0
+honda civic cvcc,1978,Japan,No. of Cylinders,4.0
+oldsmobile cutlass salon brougham,1978,USA,No. of Cylinders,8.0
+dodge diplomat,1978,USA,No. of Cylinders,8.0
+mercury monarch ghia,1978,USA,No. of Cylinders,8.0
+pontiac phoenix lj,1978,USA,No. of Cylinders,6.0
+chevrolet malibu,1978,USA,No. of Cylinders,6.0
+ford fairmont (auto),1978,USA,No. of Cylinders,6.0
+ford fairmont (man),1978,USA,No. of Cylinders,4.0
+plymouth volare,1978,USA,No. of Cylinders,6.0
+amc concord,1978,USA,No. of Cylinders,6.0
+buick century special,1978,USA,No. of Cylinders,6.0
+mercury zephyr,1978,USA,No. of Cylinders,6.0
+dodge aspen,1978,USA,No. of Cylinders,6.0
+amc concord d/l,1978,USA,No. of Cylinders,6.0
+chevrolet monte carlo landau,1978,USA,No. of Cylinders,8.0
+buick regal sport coupe (turbo),1978,USA,No. of Cylinders,6.0
+ford futura,1978,USA,No. of Cylinders,8.0
+dodge magnum xe,1978,USA,No. of Cylinders,8.0
+chevrolet chevette,1978,USA,No. of Cylinders,4.0
+toyota corona,1978,Japan,No. of Cylinders,4.0
+datsun 510,1978,Japan,No. of Cylinders,4.0
+dodge omni,1978,USA,No. of Cylinders,4.0
+toyota celica gt liftback,1978,Japan,No. of Cylinders,4.0
+plymouth sapporo,1978,USA,No. of Cylinders,4.0
+oldsmobile starfire sx,1978,USA,No. of Cylinders,4.0
+datsun 200-sx,1978,Japan,No. of Cylinders,4.0
+audi 5000,1978,Europe,No. of Cylinders,5.0
+volvo 264gl,1978,Europe,No. of Cylinders,6.0
+saab 99gle,1978,Europe,No. of Cylinders,4.0
+peugeot 604sl,1978,Europe,No. of Cylinders,6.0
+volkswagen scirocco,1978,Europe,No. of Cylinders,4.0
+honda accord lx,1978,Japan,No. of Cylinders,4.0
+pontiac lemans v6,1979,USA,No. of Cylinders,6.0
+mercury zephyr 6,1979,USA,No. of Cylinders,6.0
+ford fairmont 4,1979,USA,No. of Cylinders,4.0
+amc concord dl 6,1979,USA,No. of Cylinders,6.0
+dodge aspen 6,1979,USA,No. of Cylinders,6.0
+chevrolet caprice classic,1979,USA,No. of Cylinders,8.0
+ford ltd landau,1979,USA,No. of Cylinders,8.0
+mercury grand marquis,1979,USA,No. of Cylinders,8.0
+dodge st. regis,1979,USA,No. of Cylinders,8.0
+buick estate wagon (sw),1979,USA,No. of Cylinders,8.0
+ford country squire (sw),1979,USA,No. of Cylinders,8.0
+chevrolet malibu classic (sw),1979,USA,No. of Cylinders,8.0
+chrysler lebaron town @ country (sw),1979,USA,No. of Cylinders,8.0
+vw rabbit custom,1979,Europe,No. of Cylinders,4.0
+maxda glc deluxe,1979,Japan,No. of Cylinders,4.0
+dodge colt hatchback custom,1979,USA,No. of Cylinders,4.0
+amc spirit dl,1979,USA,No. of Cylinders,4.0
+mercedes benz 300d,1979,Europe,No. of Cylinders,5.0
+cadillac eldorado,1979,USA,No. of Cylinders,8.0
+peugeot 504,1979,Europe,No. of Cylinders,4.0
+oldsmobile cutlass salon brougham,1979,USA,No. of Cylinders,8.0
+plymouth horizon,1979,USA,No. of Cylinders,4.0
+plymouth horizon tc3,1979,USA,No. of Cylinders,4.0
+datsun 210,1979,Japan,No. of Cylinders,4.0
+fiat strada custom,1979,Europe,No. of Cylinders,4.0
+buick skylark limited,1979,USA,No. of Cylinders,4.0
+chevrolet citation,1979,USA,No. of Cylinders,6.0
+oldsmobile omega brougham,1979,USA,No. of Cylinders,6.0
+pontiac phoenix,1979,USA,No. of Cylinders,4.0
+vw rabbit,1980,Europe,No. of Cylinders,4.0
+toyota corolla tercel,1980,Japan,No. of Cylinders,4.0
+chevrolet chevette,1980,USA,No. of Cylinders,4.0
+datsun 310,1980,Japan,No. of Cylinders,4.0
+chevrolet citation,1980,USA,No. of Cylinders,4.0
+ford fairmont,1980,USA,No. of Cylinders,4.0
+amc concord,1980,USA,No. of Cylinders,4.0
+dodge aspen,1980,USA,No. of Cylinders,6.0
+audi 4000,1980,Europe,No. of Cylinders,4.0
+toyota corona liftback,1980,Japan,No. of Cylinders,4.0
+mazda 626,1980,Japan,No. of Cylinders,4.0
+datsun 510 hatchback,1980,Japan,No. of Cylinders,4.0
+toyota corolla,1980,Japan,No. of Cylinders,4.0
+mazda glc,1980,Japan,No. of Cylinders,4.0
+dodge colt,1980,USA,No. of Cylinders,4.0
+datsun 210,1980,Japan,No. of Cylinders,4.0
+vw rabbit c (diesel),1980,Europe,No. of Cylinders,4.0
+vw dasher (diesel),1980,Europe,No. of Cylinders,4.0
+audi 5000s (diesel),1980,Europe,No. of Cylinders,5.0
+mercedes-benz 240d,1980,Europe,No. of Cylinders,4.0
+honda civic 1500 gl,1980,Japan,No. of Cylinders,4.0
+renault lecar deluxe,1980,Europe,No. of Cylinders,4.0
+subaru dl,1980,Japan,No. of Cylinders,4.0
+vokswagen rabbit,1980,Europe,No. of Cylinders,4.0
+datsun 280-zx,1980,Japan,No. of Cylinders,6.0
+mazda rx-7 gs,1980,Japan,No. of Cylinders,3.0
+triumph tr7 coupe,1980,Europe,No. of Cylinders,4.0
+ford mustang cobra,1980,USA,No. of Cylinders,4.0
+honda accord,1980,Japan,No. of Cylinders,4.0
+plymouth reliant,1981,USA,No. of Cylinders,4.0
+buick skylark,1981,USA,No. of Cylinders,4.0
+dodge aries wagon (sw),1981,USA,No. of Cylinders,4.0
+chevrolet citation,1981,USA,No. of Cylinders,6.0
+plymouth reliant,1981,USA,No. of Cylinders,4.0
+toyota starlet,1981,Japan,No. of Cylinders,4.0
+plymouth champ,1981,USA,No. of Cylinders,4.0
+honda civic 1300,1981,Japan,No. of Cylinders,4.0
+subaru,1981,Japan,No. of Cylinders,4.0
+datsun 210 mpg,1981,Japan,No. of Cylinders,4.0
+toyota tercel,1981,Japan,No. of Cylinders,4.0
+mazda glc 4,1981,Japan,No. of Cylinders,4.0
+plymouth horizon 4,1981,USA,No. of Cylinders,4.0
+ford escort 4w,1981,USA,No. of Cylinders,4.0
+ford escort 2h,1981,USA,No. of Cylinders,4.0
+volkswagen jetta,1981,Europe,No. of Cylinders,4.0
+renault 18i,1981,Europe,No. of Cylinders,4.0
+honda prelude,1981,Japan,No. of Cylinders,4.0
+toyota corolla,1981,Japan,No. of Cylinders,4.0
+datsun 200sx,1981,Japan,No. of Cylinders,4.0
+mazda 626,1981,Japan,No. of Cylinders,4.0
+peugeot 505s turbo diesel,1981,Europe,No. of Cylinders,4.0
+volvo diesel,1981,Europe,No. of Cylinders,6.0
+toyota cressida,1981,Japan,No. of Cylinders,6.0
+datsun 810 maxima,1981,Japan,No. of Cylinders,6.0
+buick century,1981,USA,No. of Cylinders,6.0
+oldsmobile cutlass ls,1981,USA,No. of Cylinders,8.0
+ford granada gl,1981,USA,No. of Cylinders,6.0
+chrysler lebaron salon,1981,USA,No. of Cylinders,6.0
+chevrolet cavalier,1982,USA,No. of Cylinders,4.0
+chevrolet cavalier wagon,1982,USA,No. of Cylinders,4.0
+chevrolet cavalier 2-door,1982,USA,No. of Cylinders,4.0
+pontiac j2000 se hatchback,1982,USA,No. of Cylinders,4.0
+dodge aries se,1982,USA,No. of Cylinders,4.0
+pontiac phoenix,1982,USA,No. of Cylinders,4.0
+ford fairmont futura,1982,USA,No. of Cylinders,4.0
+amc concord dl,1982,USA,No. of Cylinders,4.0
+volkswagen rabbit l,1982,Europe,No. of Cylinders,4.0
+mazda glc custom l,1982,Japan,No. of Cylinders,4.0
+mazda glc custom,1982,Japan,No. of Cylinders,4.0
+plymouth horizon miser,1982,USA,No. of Cylinders,4.0
+mercury lynx l,1982,USA,No. of Cylinders,4.0
+nissan stanza xe,1982,Japan,No. of Cylinders,4.0
+honda accord,1982,Japan,No. of Cylinders,4.0
+toyota corolla,1982,Japan,No. of Cylinders,4.0
+honda civic,1982,Japan,No. of Cylinders,4.0
+honda civic (auto),1982,Japan,No. of Cylinders,4.0
+datsun 310 gx,1982,Japan,No. of Cylinders,4.0
+buick century limited,1982,USA,No. of Cylinders,6.0
+oldsmobile cutlass ciera (diesel),1982,USA,No. of Cylinders,6.0
+chrysler lebaron medallion,1982,USA,No. of Cylinders,4.0
+ford granada l,1982,USA,No. of Cylinders,6.0
+toyota celica gt,1982,Japan,No. of Cylinders,4.0
+dodge charger 2.2,1982,USA,No. of Cylinders,4.0
+chevrolet camaro,1982,USA,No. of Cylinders,4.0
+ford mustang gl,1982,USA,No. of Cylinders,4.0
+vw pickup,1982,Europe,No. of Cylinders,4.0
+dodge rampage,1982,USA,No. of Cylinders,4.0
+ford ranger,1982,USA,No. of Cylinders,4.0
+chevy s-10,1982,USA,No. of Cylinders,4.0
+chevrolet chevelle malibu,1970,USA,Displacement,307.0
+buick skylark 320,1970,USA,Displacement,350.0
+plymouth satellite,1970,USA,Displacement,318.0
+amc rebel sst,1970,USA,Displacement,304.0
+ford torino,1970,USA,Displacement,302.0
+ford galaxie 500,1970,USA,Displacement,429.0
+chevrolet impala,1970,USA,Displacement,454.0
+plymouth fury iii,1970,USA,Displacement,440.0
+pontiac catalina,1970,USA,Displacement,455.0
+amc ambassador dpl,1970,USA,Displacement,390.0
+dodge challenger se,1970,USA,Displacement,383.0
+plymouth 'cuda 340,1970,USA,Displacement,340.0
+chevrolet monte carlo,1970,USA,Displacement,400.0
+buick estate wagon (sw),1970,USA,Displacement,455.0
+toyota corona mark ii,1970,Japan,Displacement,113.0
+plymouth duster,1970,USA,Displacement,198.0
+amc hornet,1970,USA,Displacement,199.0
+ford maverick,1970,USA,Displacement,200.0
+datsun pl510,1970,Japan,Displacement,97.0
+volkswagen 1131 deluxe sedan,1970,Europe,Displacement,97.0
+peugeot 504,1970,Europe,Displacement,110.0
+audi 100 ls,1970,Europe,Displacement,107.0
+saab 99e,1970,Europe,Displacement,104.0
+bmw 2002,1970,Europe,Displacement,121.0
+amc gremlin,1970,USA,Displacement,199.0
+ford f250,1970,USA,Displacement,360.0
+chevy c20,1970,USA,Displacement,307.0
+dodge d200,1970,USA,Displacement,318.0
+hi 1200d,1970,USA,Displacement,304.0
+datsun pl510,1971,Japan,Displacement,97.0
+chevrolet vega 2300,1971,USA,Displacement,140.0
+toyota corona,1971,Japan,Displacement,113.0
+ford pinto,1971,USA,Displacement,98.0
+amc gremlin,1971,USA,Displacement,232.0
+plymouth satellite custom,1971,USA,Displacement,225.0
+chevrolet chevelle malibu,1971,USA,Displacement,250.0
+ford torino 500,1971,USA,Displacement,250.0
+amc matador,1971,USA,Displacement,232.0
+chevrolet impala,1971,USA,Displacement,350.0
+pontiac catalina brougham,1971,USA,Displacement,400.0
+ford galaxie 500,1971,USA,Displacement,351.0
+plymouth fury iii,1971,USA,Displacement,318.0
+dodge monaco (sw),1971,USA,Displacement,383.0
+ford country squire (sw),1971,USA,Displacement,400.0
+pontiac safari (sw),1971,USA,Displacement,400.0
+amc hornet sportabout (sw),1971,USA,Displacement,258.0
+chevrolet vega (sw),1971,USA,Displacement,140.0
+pontiac firebird,1971,USA,Displacement,250.0
+ford mustang,1971,USA,Displacement,250.0
+mercury capri 2000,1971,USA,Displacement,122.0
+opel 1900,1971,Europe,Displacement,116.0
+peugeot 304,1971,Europe,Displacement,79.0
+fiat 124b,1971,Europe,Displacement,88.0
+toyota corolla 1200,1971,Japan,Displacement,71.0
+datsun 1200,1971,Japan,Displacement,72.0
+volkswagen model 111,1971,Europe,Displacement,97.0
+plymouth cricket,1971,USA,Displacement,91.0
+toyota corona hardtop,1972,Japan,Displacement,113.0
+dodge colt hardtop,1972,USA,Displacement,97.5
+volkswagen type 3,1972,Europe,Displacement,97.0
+chevrolet vega,1972,USA,Displacement,140.0
+ford pinto runabout,1972,USA,Displacement,122.0
+chevrolet impala,1972,USA,Displacement,350.0
+pontiac catalina,1972,USA,Displacement,400.0
+plymouth fury iii,1972,USA,Displacement,318.0
+ford galaxie 500,1972,USA,Displacement,351.0
+amc ambassador sst,1972,USA,Displacement,304.0
+mercury marquis,1972,USA,Displacement,429.0
+buick lesabre custom,1972,USA,Displacement,350.0
+oldsmobile delta 88 royale,1972,USA,Displacement,350.0
+chrysler newport royal,1972,USA,Displacement,400.0
+mazda rx2 coupe,1972,Japan,Displacement,70.0
+amc matador (sw),1972,USA,Displacement,304.0
+chevrolet chevelle concours (sw),1972,USA,Displacement,307.0
+ford gran torino (sw),1972,USA,Displacement,302.0
+plymouth satellite custom (sw),1972,USA,Displacement,318.0
+volvo 145e (sw),1972,Europe,Displacement,121.0
+volkswagen 411 (sw),1972,Europe,Displacement,121.0
+peugeot 504 (sw),1972,Europe,Displacement,120.0
+renault 12 (sw),1972,Europe,Displacement,96.0
+ford pinto (sw),1972,USA,Displacement,122.0
+datsun 510 (sw),1972,Japan,Displacement,97.0
+toyouta corona mark ii (sw),1972,Japan,Displacement,120.0
+dodge colt (sw),1972,USA,Displacement,98.0
+toyota corolla 1600 (sw),1972,Japan,Displacement,97.0
+buick century 350,1973,USA,Displacement,350.0
+amc matador,1973,USA,Displacement,304.0
+chevrolet malibu,1973,USA,Displacement,350.0
+ford gran torino,1973,USA,Displacement,302.0
+dodge coronet custom,1973,USA,Displacement,318.0
+mercury marquis brougham,1973,USA,Displacement,429.0
+chevrolet caprice classic,1973,USA,Displacement,400.0
+ford ltd,1973,USA,Displacement,351.0
+plymouth fury gran sedan,1973,USA,Displacement,318.0
+chrysler new yorker brougham,1973,USA,Displacement,440.0
+buick electra 225 custom,1973,USA,Displacement,455.0
+amc ambassador brougham,1973,USA,Displacement,360.0
+plymouth valiant,1973,USA,Displacement,225.0
+chevrolet nova custom,1973,USA,Displacement,250.0
+amc hornet,1973,USA,Displacement,232.0
+ford maverick,1973,USA,Displacement,250.0
+plymouth duster,1973,USA,Displacement,198.0
+volkswagen super beetle,1973,Europe,Displacement,97.0
+chevrolet impala,1973,USA,Displacement,400.0
+ford country,1973,USA,Displacement,400.0
+plymouth custom suburb,1973,USA,Displacement,360.0
+oldsmobile vista cruiser,1973,USA,Displacement,350.0
+amc gremlin,1973,USA,Displacement,232.0
+toyota carina,1973,Japan,Displacement,97.0
+chevrolet vega,1973,USA,Displacement,140.0
+datsun 610,1973,Japan,Displacement,108.0
+maxda rx3,1973,Japan,Displacement,70.0
+ford pinto,1973,USA,Displacement,122.0
+mercury capri v6,1973,USA,Displacement,155.0
+fiat 124 sport coupe,1973,Europe,Displacement,98.0
+chevrolet monte carlo s,1973,USA,Displacement,350.0
+pontiac grand prix,1973,USA,Displacement,400.0
+fiat 128,1973,Europe,Displacement,68.0
+opel manta,1973,Europe,Displacement,116.0
+audi 100ls,1973,Europe,Displacement,114.0
+volvo 144ea,1973,Europe,Displacement,121.0
+dodge dart custom,1973,USA,Displacement,318.0
+saab 99le,1973,Europe,Displacement,121.0
+toyota mark ii,1973,Japan,Displacement,156.0
+oldsmobile omega,1973,USA,Displacement,350.0
+plymouth duster,1974,USA,Displacement,198.0
+ford maverick,1974,USA,Displacement,200.0
+amc hornet,1974,USA,Displacement,232.0
+chevrolet nova,1974,USA,Displacement,250.0
+datsun b210,1974,Japan,Displacement,79.0
+ford pinto,1974,USA,Displacement,122.0
+toyota corolla 1200,1974,Japan,Displacement,71.0
+chevrolet vega,1974,USA,Displacement,140.0
+chevrolet chevelle malibu classic,1974,USA,Displacement,250.0
+amc matador,1974,USA,Displacement,258.0
+plymouth satellite sebring,1974,USA,Displacement,225.0
+ford gran torino,1974,USA,Displacement,302.0
+buick century luxus (sw),1974,USA,Displacement,350.0
+dodge coronet custom (sw),1974,USA,Displacement,318.0
+ford gran torino (sw),1974,USA,Displacement,302.0
+amc matador (sw),1974,USA,Displacement,304.0
+audi fox,1974,Europe,Displacement,98.0
+volkswagen dasher,1974,Europe,Displacement,79.0
+opel manta,1974,Europe,Displacement,97.0
+toyota corona,1974,Japan,Displacement,76.0
+datsun 710,1974,Japan,Displacement,83.0
+dodge colt,1974,USA,Displacement,90.0
+fiat 128,1974,Europe,Displacement,90.0
+fiat 124 tc,1974,Europe,Displacement,116.0
+honda civic,1974,Japan,Displacement,120.0
+subaru,1974,Japan,Displacement,108.0
+fiat x1.9,1974,Europe,Displacement,79.0
+plymouth valiant custom,1975,USA,Displacement,225.0
+chevrolet nova,1975,USA,Displacement,250.0
+mercury monarch,1975,USA,Displacement,250.0
+ford maverick,1975,USA,Displacement,250.0
+pontiac catalina,1975,USA,Displacement,400.0
+chevrolet bel air,1975,USA,Displacement,350.0
+plymouth grand fury,1975,USA,Displacement,318.0
+ford ltd,1975,USA,Displacement,351.0
+buick century,1975,USA,Displacement,231.0
+chevroelt chevelle malibu,1975,USA,Displacement,250.0
+amc matador,1975,USA,Displacement,258.0
+plymouth fury,1975,USA,Displacement,225.0
+buick skyhawk,1975,USA,Displacement,231.0
+chevrolet monza 2+2,1975,USA,Displacement,262.0
+ford mustang ii,1975,USA,Displacement,302.0
+toyota corolla,1975,Japan,Displacement,97.0
+ford pinto,1975,USA,Displacement,140.0
+amc gremlin,1975,USA,Displacement,232.0
+pontiac astro,1975,USA,Displacement,140.0
+toyota corona,1975,Japan,Displacement,134.0
+volkswagen dasher,1975,Europe,Displacement,90.0
+datsun 710,1975,Japan,Displacement,119.0
+ford pinto,1975,USA,Displacement,171.0
+volkswagen rabbit,1975,Europe,Displacement,90.0
+amc pacer,1975,USA,Displacement,232.0
+audi 100ls,1975,Europe,Displacement,115.0
+peugeot 504,1975,Europe,Displacement,120.0
+volvo 244dl,1975,Europe,Displacement,121.0
+saab 99le,1975,Europe,Displacement,121.0
+honda civic cvcc,1975,Japan,Displacement,91.0
+fiat 131,1976,Europe,Displacement,107.0
+opel 1900,1976,Europe,Displacement,116.0
+capri ii,1976,USA,Displacement,140.0
+dodge colt,1976,USA,Displacement,98.0
+renault 12tl,1976,Europe,Displacement,101.0
+chevrolet chevelle malibu classic,1976,USA,Displacement,305.0
+dodge coronet brougham,1976,USA,Displacement,318.0
+amc matador,1976,USA,Displacement,304.0
+ford gran torino,1976,USA,Displacement,351.0
+plymouth valiant,1976,USA,Displacement,225.0
+chevrolet nova,1976,USA,Displacement,250.0
+ford maverick,1976,USA,Displacement,200.0
+amc hornet,1976,USA,Displacement,232.0
+chevrolet chevette,1976,USA,Displacement,85.0
+chevrolet woody,1976,USA,Displacement,98.0
+vw rabbit,1976,Europe,Displacement,90.0
+honda civic,1976,Japan,Displacement,91.0
+dodge aspen se,1976,USA,Displacement,225.0
+ford granada ghia,1976,USA,Displacement,250.0
+pontiac ventura sj,1976,USA,Displacement,250.0
+amc pacer d/l,1976,USA,Displacement,258.0
+volkswagen rabbit,1976,Europe,Displacement,97.0
+datsun b-210,1976,Japan,Displacement,85.0
+toyota corolla,1976,Japan,Displacement,97.0
+ford pinto,1976,USA,Displacement,140.0
+volvo 245,1976,Europe,Displacement,130.0
+plymouth volare premier v8,1976,USA,Displacement,318.0
+peugeot 504,1976,Europe,Displacement,120.0
+toyota mark ii,1976,Japan,Displacement,156.0
+mercedes-benz 280s,1976,Europe,Displacement,168.0
+cadillac seville,1976,USA,Displacement,350.0
+chevy c10,1976,USA,Displacement,350.0
+ford f108,1976,USA,Displacement,302.0
+dodge d100,1976,USA,Displacement,318.0
+honda accord cvcc,1977,Japan,Displacement,98.0
+buick opel isuzu deluxe,1977,USA,Displacement,111.0
+renault 5 gtl,1977,Europe,Displacement,79.0
+plymouth arrow gs,1977,USA,Displacement,122.0
+datsun f-10 hatchback,1977,Japan,Displacement,85.0
+chevrolet caprice classic,1977,USA,Displacement,305.0
+oldsmobile cutlass supreme,1977,USA,Displacement,260.0
+dodge monaco brougham,1977,USA,Displacement,318.0
+mercury cougar brougham,1977,USA,Displacement,302.0
+chevrolet concours,1977,USA,Displacement,250.0
+buick skylark,1977,USA,Displacement,231.0
+plymouth volare custom,1977,USA,Displacement,225.0
+ford granada,1977,USA,Displacement,250.0
+pontiac grand prix lj,1977,USA,Displacement,400.0
+chevrolet monte carlo landau,1977,USA,Displacement,350.0
+chrysler cordoba,1977,USA,Displacement,400.0
+ford thunderbird,1977,USA,Displacement,351.0
+volkswagen rabbit custom,1977,Europe,Displacement,97.0
+pontiac sunbird coupe,1977,USA,Displacement,151.0
+toyota corolla liftback,1977,Japan,Displacement,97.0
+ford mustang ii 2+2,1977,USA,Displacement,140.0
+chevrolet chevette,1977,USA,Displacement,98.0
+dodge colt m/m,1977,USA,Displacement,98.0
+subaru dl,1977,Japan,Displacement,97.0
+volkswagen dasher,1977,Europe,Displacement,97.0
+datsun 810,1977,Japan,Displacement,146.0
+bmw 320i,1977,Europe,Displacement,121.0
+mazda rx-4,1977,Japan,Displacement,80.0
+volkswagen rabbit custom diesel,1978,Europe,Displacement,90.0
+ford fiesta,1978,USA,Displacement,98.0
+mazda glc deluxe,1978,Japan,Displacement,78.0
+datsun b210 gx,1978,Japan,Displacement,85.0
+honda civic cvcc,1978,Japan,Displacement,91.0
+oldsmobile cutlass salon brougham,1978,USA,Displacement,260.0
+dodge diplomat,1978,USA,Displacement,318.0
+mercury monarch ghia,1978,USA,Displacement,302.0
+pontiac phoenix lj,1978,USA,Displacement,231.0
+chevrolet malibu,1978,USA,Displacement,200.0
+ford fairmont (auto),1978,USA,Displacement,200.0
+ford fairmont (man),1978,USA,Displacement,140.0
+plymouth volare,1978,USA,Displacement,225.0
+amc concord,1978,USA,Displacement,232.0
+buick century special,1978,USA,Displacement,231.0
+mercury zephyr,1978,USA,Displacement,200.0
+dodge aspen,1978,USA,Displacement,225.0
+amc concord d/l,1978,USA,Displacement,258.0
+chevrolet monte carlo landau,1978,USA,Displacement,305.0
+buick regal sport coupe (turbo),1978,USA,Displacement,231.0
+ford futura,1978,USA,Displacement,302.0
+dodge magnum xe,1978,USA,Displacement,318.0
+chevrolet chevette,1978,USA,Displacement,98.0
+toyota corona,1978,Japan,Displacement,134.0
+datsun 510,1978,Japan,Displacement,119.0
+dodge omni,1978,USA,Displacement,105.0
+toyota celica gt liftback,1978,Japan,Displacement,134.0
+plymouth sapporo,1978,USA,Displacement,156.0
+oldsmobile starfire sx,1978,USA,Displacement,151.0
+datsun 200-sx,1978,Japan,Displacement,119.0
+audi 5000,1978,Europe,Displacement,131.0
+volvo 264gl,1978,Europe,Displacement,163.0
+saab 99gle,1978,Europe,Displacement,121.0
+peugeot 604sl,1978,Europe,Displacement,163.0
+volkswagen scirocco,1978,Europe,Displacement,89.0
+honda accord lx,1978,Japan,Displacement,98.0
+pontiac lemans v6,1979,USA,Displacement,231.0
+mercury zephyr 6,1979,USA,Displacement,200.0
+ford fairmont 4,1979,USA,Displacement,140.0
+amc concord dl 6,1979,USA,Displacement,232.0
+dodge aspen 6,1979,USA,Displacement,225.0
+chevrolet caprice classic,1979,USA,Displacement,305.0
+ford ltd landau,1979,USA,Displacement,302.0
+mercury grand marquis,1979,USA,Displacement,351.0
+dodge st. regis,1979,USA,Displacement,318.0
+buick estate wagon (sw),1979,USA,Displacement,350.0
+ford country squire (sw),1979,USA,Displacement,351.0
+chevrolet malibu classic (sw),1979,USA,Displacement,267.0
+chrysler lebaron town @ country (sw),1979,USA,Displacement,360.0
+vw rabbit custom,1979,Europe,Displacement,89.0
+maxda glc deluxe,1979,Japan,Displacement,86.0
+dodge colt hatchback custom,1979,USA,Displacement,98.0
+amc spirit dl,1979,USA,Displacement,121.0
+mercedes benz 300d,1979,Europe,Displacement,183.0
+cadillac eldorado,1979,USA,Displacement,350.0
+peugeot 504,1979,Europe,Displacement,141.0
+oldsmobile cutlass salon brougham,1979,USA,Displacement,260.0
+plymouth horizon,1979,USA,Displacement,105.0
+plymouth horizon tc3,1979,USA,Displacement,105.0
+datsun 210,1979,Japan,Displacement,85.0
+fiat strada custom,1979,Europe,Displacement,91.0
+buick skylark limited,1979,USA,Displacement,151.0
+chevrolet citation,1979,USA,Displacement,173.0
+oldsmobile omega brougham,1979,USA,Displacement,173.0
+pontiac phoenix,1979,USA,Displacement,151.0
+vw rabbit,1980,Europe,Displacement,98.0
+toyota corolla tercel,1980,Japan,Displacement,89.0
+chevrolet chevette,1980,USA,Displacement,98.0
+datsun 310,1980,Japan,Displacement,86.0
+chevrolet citation,1980,USA,Displacement,151.0
+ford fairmont,1980,USA,Displacement,140.0
+amc concord,1980,USA,Displacement,151.0
+dodge aspen,1980,USA,Displacement,225.0
+audi 4000,1980,Europe,Displacement,97.0
+toyota corona liftback,1980,Japan,Displacement,134.0
+mazda 626,1980,Japan,Displacement,120.0
+datsun 510 hatchback,1980,Japan,Displacement,119.0
+toyota corolla,1980,Japan,Displacement,108.0
+mazda glc,1980,Japan,Displacement,86.0
+dodge colt,1980,USA,Displacement,156.0
+datsun 210,1980,Japan,Displacement,85.0
+vw rabbit c (diesel),1980,Europe,Displacement,90.0
+vw dasher (diesel),1980,Europe,Displacement,90.0
+audi 5000s (diesel),1980,Europe,Displacement,121.0
+mercedes-benz 240d,1980,Europe,Displacement,146.0
+honda civic 1500 gl,1980,Japan,Displacement,91.0
+renault lecar deluxe,1980,Europe,Displacement,85.0
+subaru dl,1980,Japan,Displacement,97.0
+vokswagen rabbit,1980,Europe,Displacement,89.0
+datsun 280-zx,1980,Japan,Displacement,168.0
+mazda rx-7 gs,1980,Japan,Displacement,70.0
+triumph tr7 coupe,1980,Europe,Displacement,122.0
+ford mustang cobra,1980,USA,Displacement,140.0
+honda accord,1980,Japan,Displacement,107.0
+plymouth reliant,1981,USA,Displacement,135.0
+buick skylark,1981,USA,Displacement,151.0
+dodge aries wagon (sw),1981,USA,Displacement,156.0
+chevrolet citation,1981,USA,Displacement,173.0
+plymouth reliant,1981,USA,Displacement,135.0
+toyota starlet,1981,Japan,Displacement,79.0
+plymouth champ,1981,USA,Displacement,86.0
+honda civic 1300,1981,Japan,Displacement,81.0
+subaru,1981,Japan,Displacement,97.0
+datsun 210 mpg,1981,Japan,Displacement,85.0
+toyota tercel,1981,Japan,Displacement,89.0
+mazda glc 4,1981,Japan,Displacement,91.0
+plymouth horizon 4,1981,USA,Displacement,105.0
+ford escort 4w,1981,USA,Displacement,98.0
+ford escort 2h,1981,USA,Displacement,98.0
+volkswagen jetta,1981,Europe,Displacement,105.0
+renault 18i,1981,Europe,Displacement,100.0
+honda prelude,1981,Japan,Displacement,107.0
+toyota corolla,1981,Japan,Displacement,108.0
+datsun 200sx,1981,Japan,Displacement,119.0
+mazda 626,1981,Japan,Displacement,120.0
+peugeot 505s turbo diesel,1981,Europe,Displacement,141.0
+volvo diesel,1981,Europe,Displacement,145.0
+toyota cressida,1981,Japan,Displacement,168.0
+datsun 810 maxima,1981,Japan,Displacement,146.0
+buick century,1981,USA,Displacement,231.0
+oldsmobile cutlass ls,1981,USA,Displacement,350.0
+ford granada gl,1981,USA,Displacement,200.0
+chrysler lebaron salon,1981,USA,Displacement,225.0
+chevrolet cavalier,1982,USA,Displacement,112.0
+chevrolet cavalier wagon,1982,USA,Displacement,112.0
+chevrolet cavalier 2-door,1982,USA,Displacement,112.0
+pontiac j2000 se hatchback,1982,USA,Displacement,112.0
+dodge aries se,1982,USA,Displacement,135.0
+pontiac phoenix,1982,USA,Displacement,151.0
+ford fairmont futura,1982,USA,Displacement,140.0
+amc concord dl,1982,USA,Displacement,151.0
+volkswagen rabbit l,1982,Europe,Displacement,105.0
+mazda glc custom l,1982,Japan,Displacement,91.0
+mazda glc custom,1982,Japan,Displacement,91.0
+plymouth horizon miser,1982,USA,Displacement,105.0
+mercury lynx l,1982,USA,Displacement,98.0
+nissan stanza xe,1982,Japan,Displacement,120.0
+honda accord,1982,Japan,Displacement,107.0
+toyota corolla,1982,Japan,Displacement,108.0
+honda civic,1982,Japan,Displacement,91.0
+honda civic (auto),1982,Japan,Displacement,91.0
+datsun 310 gx,1982,Japan,Displacement,91.0
+buick century limited,1982,USA,Displacement,181.0
+oldsmobile cutlass ciera (diesel),1982,USA,Displacement,262.0
+chrysler lebaron medallion,1982,USA,Displacement,156.0
+ford granada l,1982,USA,Displacement,232.0
+toyota celica gt,1982,Japan,Displacement,144.0
+dodge charger 2.2,1982,USA,Displacement,135.0
+chevrolet camaro,1982,USA,Displacement,151.0
+ford mustang gl,1982,USA,Displacement,140.0
+vw pickup,1982,Europe,Displacement,97.0
+dodge rampage,1982,USA,Displacement,135.0
+ford ranger,1982,USA,Displacement,120.0
+chevy s-10,1982,USA,Displacement,119.0
+chevrolet chevelle malibu,1970,USA,Weight,3504.0
+buick skylark 320,1970,USA,Weight,3693.0
+plymouth satellite,1970,USA,Weight,3436.0
+amc rebel sst,1970,USA,Weight,3433.0
+ford torino,1970,USA,Weight,3449.0
+ford galaxie 500,1970,USA,Weight,4341.0
+chevrolet impala,1970,USA,Weight,4354.0
+plymouth fury iii,1970,USA,Weight,4312.0
+pontiac catalina,1970,USA,Weight,4425.0
+amc ambassador dpl,1970,USA,Weight,3850.0
+dodge challenger se,1970,USA,Weight,3563.0
+plymouth 'cuda 340,1970,USA,Weight,3609.0
+chevrolet monte carlo,1970,USA,Weight,3761.0
+buick estate wagon (sw),1970,USA,Weight,3086.0
+toyota corona mark ii,1970,Japan,Weight,2372.0
+plymouth duster,1970,USA,Weight,2833.0
+amc hornet,1970,USA,Weight,2774.0
+ford maverick,1970,USA,Weight,2587.0
+datsun pl510,1970,Japan,Weight,2130.0
+volkswagen 1131 deluxe sedan,1970,Europe,Weight,1835.0
+peugeot 504,1970,Europe,Weight,2672.0
+audi 100 ls,1970,Europe,Weight,2430.0
+saab 99e,1970,Europe,Weight,2375.0
+bmw 2002,1970,Europe,Weight,2234.0
+amc gremlin,1970,USA,Weight,2648.0
+ford f250,1970,USA,Weight,4615.0
+chevy c20,1970,USA,Weight,4376.0
+dodge d200,1970,USA,Weight,4382.0
+hi 1200d,1970,USA,Weight,4732.0
+datsun pl510,1971,Japan,Weight,2130.0
+chevrolet vega 2300,1971,USA,Weight,2264.0
+toyota corona,1971,Japan,Weight,2228.0
+ford pinto,1971,USA,Weight,2046.0
+amc gremlin,1971,USA,Weight,2634.0
+plymouth satellite custom,1971,USA,Weight,3439.0
+chevrolet chevelle malibu,1971,USA,Weight,3329.0
+ford torino 500,1971,USA,Weight,3302.0
+amc matador,1971,USA,Weight,3288.0
+chevrolet impala,1971,USA,Weight,4209.0
+pontiac catalina brougham,1971,USA,Weight,4464.0
+ford galaxie 500,1971,USA,Weight,4154.0
+plymouth fury iii,1971,USA,Weight,4096.0
+dodge monaco (sw),1971,USA,Weight,4955.0
+ford country squire (sw),1971,USA,Weight,4746.0
+pontiac safari (sw),1971,USA,Weight,5140.0
+amc hornet sportabout (sw),1971,USA,Weight,2962.0
+chevrolet vega (sw),1971,USA,Weight,2408.0
+pontiac firebird,1971,USA,Weight,3282.0
+ford mustang,1971,USA,Weight,3139.0
+mercury capri 2000,1971,USA,Weight,2220.0
+opel 1900,1971,Europe,Weight,2123.0
+peugeot 304,1971,Europe,Weight,2074.0
+fiat 124b,1971,Europe,Weight,2065.0
+toyota corolla 1200,1971,Japan,Weight,1773.0
+datsun 1200,1971,Japan,Weight,1613.0
+volkswagen model 111,1971,Europe,Weight,1834.0
+plymouth cricket,1971,USA,Weight,1955.0
+toyota corona hardtop,1972,Japan,Weight,2278.0
+dodge colt hardtop,1972,USA,Weight,2126.0
+volkswagen type 3,1972,Europe,Weight,2254.0
+chevrolet vega,1972,USA,Weight,2408.0
+ford pinto runabout,1972,USA,Weight,2226.0
+chevrolet impala,1972,USA,Weight,4274.0
+pontiac catalina,1972,USA,Weight,4385.0
+plymouth fury iii,1972,USA,Weight,4135.0
+ford galaxie 500,1972,USA,Weight,4129.0
+amc ambassador sst,1972,USA,Weight,3672.0
+mercury marquis,1972,USA,Weight,4633.0
+buick lesabre custom,1972,USA,Weight,4502.0
+oldsmobile delta 88 royale,1972,USA,Weight,4456.0
+chrysler newport royal,1972,USA,Weight,4422.0
+mazda rx2 coupe,1972,Japan,Weight,2330.0
+amc matador (sw),1972,USA,Weight,3892.0
+chevrolet chevelle concours (sw),1972,USA,Weight,4098.0
+ford gran torino (sw),1972,USA,Weight,4294.0
+plymouth satellite custom (sw),1972,USA,Weight,4077.0
+volvo 145e (sw),1972,Europe,Weight,2933.0
+volkswagen 411 (sw),1972,Europe,Weight,2511.0
+peugeot 504 (sw),1972,Europe,Weight,2979.0
+renault 12 (sw),1972,Europe,Weight,2189.0
+ford pinto (sw),1972,USA,Weight,2395.0
+datsun 510 (sw),1972,Japan,Weight,2288.0
+toyouta corona mark ii (sw),1972,Japan,Weight,2506.0
+dodge colt (sw),1972,USA,Weight,2164.0
+toyota corolla 1600 (sw),1972,Japan,Weight,2100.0
+buick century 350,1973,USA,Weight,4100.0
+amc matador,1973,USA,Weight,3672.0
+chevrolet malibu,1973,USA,Weight,3988.0
+ford gran torino,1973,USA,Weight,4042.0
+dodge coronet custom,1973,USA,Weight,3777.0
+mercury marquis brougham,1973,USA,Weight,4952.0
+chevrolet caprice classic,1973,USA,Weight,4464.0
+ford ltd,1973,USA,Weight,4363.0
+plymouth fury gran sedan,1973,USA,Weight,4237.0
+chrysler new yorker brougham,1973,USA,Weight,4735.0
+buick electra 225 custom,1973,USA,Weight,4951.0
+amc ambassador brougham,1973,USA,Weight,3821.0
+plymouth valiant,1973,USA,Weight,3121.0
+chevrolet nova custom,1973,USA,Weight,3278.0
+amc hornet,1973,USA,Weight,2945.0
+ford maverick,1973,USA,Weight,3021.0
+plymouth duster,1973,USA,Weight,2904.0
+volkswagen super beetle,1973,Europe,Weight,1950.0
+chevrolet impala,1973,USA,Weight,4997.0
+ford country,1973,USA,Weight,4906.0
+plymouth custom suburb,1973,USA,Weight,4654.0
+oldsmobile vista cruiser,1973,USA,Weight,4499.0
+amc gremlin,1973,USA,Weight,2789.0
+toyota carina,1973,Japan,Weight,2279.0
+chevrolet vega,1973,USA,Weight,2401.0
+datsun 610,1973,Japan,Weight,2379.0
+maxda rx3,1973,Japan,Weight,2124.0
+ford pinto,1973,USA,Weight,2310.0
+mercury capri v6,1973,USA,Weight,2472.0
+fiat 124 sport coupe,1973,Europe,Weight,2265.0
+chevrolet monte carlo s,1973,USA,Weight,4082.0
+pontiac grand prix,1973,USA,Weight,4278.0
+fiat 128,1973,Europe,Weight,1867.0
+opel manta,1973,Europe,Weight,2158.0
+audi 100ls,1973,Europe,Weight,2582.0
+volvo 144ea,1973,Europe,Weight,2868.0
+dodge dart custom,1973,USA,Weight,3399.0
+saab 99le,1973,Europe,Weight,2660.0
+toyota mark ii,1973,Japan,Weight,2807.0
+oldsmobile omega,1973,USA,Weight,3664.0
+plymouth duster,1974,USA,Weight,3102.0
+ford maverick,1974,USA,Weight,2875.0
+amc hornet,1974,USA,Weight,2901.0
+chevrolet nova,1974,USA,Weight,3336.0
+datsun b210,1974,Japan,Weight,1950.0
+ford pinto,1974,USA,Weight,2451.0
+toyota corolla 1200,1974,Japan,Weight,1836.0
+chevrolet vega,1974,USA,Weight,2542.0
+chevrolet chevelle malibu classic,1974,USA,Weight,3781.0
+amc matador,1974,USA,Weight,3632.0
+plymouth satellite sebring,1974,USA,Weight,3613.0
+ford gran torino,1974,USA,Weight,4141.0
+buick century luxus (sw),1974,USA,Weight,4699.0
+dodge coronet custom (sw),1974,USA,Weight,4457.0
+ford gran torino (sw),1974,USA,Weight,4638.0
+amc matador (sw),1974,USA,Weight,4257.0
+audi fox,1974,Europe,Weight,2219.0
+volkswagen dasher,1974,Europe,Weight,1963.0
+opel manta,1974,Europe,Weight,2300.0
+toyota corona,1974,Japan,Weight,1649.0
+datsun 710,1974,Japan,Weight,2003.0
+dodge colt,1974,USA,Weight,2125.0
+fiat 128,1974,Europe,Weight,2108.0
+fiat 124 tc,1974,Europe,Weight,2246.0
+honda civic,1974,Japan,Weight,2489.0
+subaru,1974,Japan,Weight,2391.0
+fiat x1.9,1974,Europe,Weight,2000.0
+plymouth valiant custom,1975,USA,Weight,3264.0
+chevrolet nova,1975,USA,Weight,3459.0
+mercury monarch,1975,USA,Weight,3432.0
+ford maverick,1975,USA,Weight,3158.0
+pontiac catalina,1975,USA,Weight,4668.0
+chevrolet bel air,1975,USA,Weight,4440.0
+plymouth grand fury,1975,USA,Weight,4498.0
+ford ltd,1975,USA,Weight,4657.0
+buick century,1975,USA,Weight,3907.0
+chevroelt chevelle malibu,1975,USA,Weight,3897.0
+amc matador,1975,USA,Weight,3730.0
+plymouth fury,1975,USA,Weight,3785.0
+buick skyhawk,1975,USA,Weight,3039.0
+chevrolet monza 2+2,1975,USA,Weight,3221.0
+ford mustang ii,1975,USA,Weight,3169.0
+toyota corolla,1975,Japan,Weight,2171.0
+ford pinto,1975,USA,Weight,2639.0
+amc gremlin,1975,USA,Weight,2914.0
+pontiac astro,1975,USA,Weight,2592.0
+toyota corona,1975,Japan,Weight,2702.0
+volkswagen dasher,1975,Europe,Weight,2223.0
+datsun 710,1975,Japan,Weight,2545.0
+ford pinto,1975,USA,Weight,2984.0
+volkswagen rabbit,1975,Europe,Weight,1937.0
+amc pacer,1975,USA,Weight,3211.0
+audi 100ls,1975,Europe,Weight,2694.0
+peugeot 504,1975,Europe,Weight,2957.0
+volvo 244dl,1975,Europe,Weight,2945.0
+saab 99le,1975,Europe,Weight,2671.0
+honda civic cvcc,1975,Japan,Weight,1795.0
+fiat 131,1976,Europe,Weight,2464.0
+opel 1900,1976,Europe,Weight,2220.0
+capri ii,1976,USA,Weight,2572.0
+dodge colt,1976,USA,Weight,2255.0
+renault 12tl,1976,Europe,Weight,2202.0
+chevrolet chevelle malibu classic,1976,USA,Weight,4215.0
+dodge coronet brougham,1976,USA,Weight,4190.0
+amc matador,1976,USA,Weight,3962.0
+ford gran torino,1976,USA,Weight,4215.0
+plymouth valiant,1976,USA,Weight,3233.0
+chevrolet nova,1976,USA,Weight,3353.0
+ford maverick,1976,USA,Weight,3012.0
+amc hornet,1976,USA,Weight,3085.0
+chevrolet chevette,1976,USA,Weight,2035.0
+chevrolet woody,1976,USA,Weight,2164.0
+vw rabbit,1976,Europe,Weight,1937.0
+honda civic,1976,Japan,Weight,1795.0
+dodge aspen se,1976,USA,Weight,3651.0
+ford granada ghia,1976,USA,Weight,3574.0
+pontiac ventura sj,1976,USA,Weight,3645.0
+amc pacer d/l,1976,USA,Weight,3193.0
+volkswagen rabbit,1976,Europe,Weight,1825.0
+datsun b-210,1976,Japan,Weight,1990.0
+toyota corolla,1976,Japan,Weight,2155.0
+ford pinto,1976,USA,Weight,2565.0
+volvo 245,1976,Europe,Weight,3150.0
+plymouth volare premier v8,1976,USA,Weight,3940.0
+peugeot 504,1976,Europe,Weight,3270.0
+toyota mark ii,1976,Japan,Weight,2930.0
+mercedes-benz 280s,1976,Europe,Weight,3820.0
+cadillac seville,1976,USA,Weight,4380.0
+chevy c10,1976,USA,Weight,4055.0
+ford f108,1976,USA,Weight,3870.0
+dodge d100,1976,USA,Weight,3755.0
+honda accord cvcc,1977,Japan,Weight,2045.0
+buick opel isuzu deluxe,1977,USA,Weight,2155.0
+renault 5 gtl,1977,Europe,Weight,1825.0
+plymouth arrow gs,1977,USA,Weight,2300.0
+datsun f-10 hatchback,1977,Japan,Weight,1945.0
+chevrolet caprice classic,1977,USA,Weight,3880.0
+oldsmobile cutlass supreme,1977,USA,Weight,4060.0
+dodge monaco brougham,1977,USA,Weight,4140.0
+mercury cougar brougham,1977,USA,Weight,4295.0
+chevrolet concours,1977,USA,Weight,3520.0
+buick skylark,1977,USA,Weight,3425.0
+plymouth volare custom,1977,USA,Weight,3630.0
+ford granada,1977,USA,Weight,3525.0
+pontiac grand prix lj,1977,USA,Weight,4220.0
+chevrolet monte carlo landau,1977,USA,Weight,4165.0
+chrysler cordoba,1977,USA,Weight,4325.0
+ford thunderbird,1977,USA,Weight,4335.0
+volkswagen rabbit custom,1977,Europe,Weight,1940.0
+pontiac sunbird coupe,1977,USA,Weight,2740.0
+toyota corolla liftback,1977,Japan,Weight,2265.0
+ford mustang ii 2+2,1977,USA,Weight,2755.0
+chevrolet chevette,1977,USA,Weight,2051.0
+dodge colt m/m,1977,USA,Weight,2075.0
+subaru dl,1977,Japan,Weight,1985.0
+volkswagen dasher,1977,Europe,Weight,2190.0
+datsun 810,1977,Japan,Weight,2815.0
+bmw 320i,1977,Europe,Weight,2600.0
+mazda rx-4,1977,Japan,Weight,2720.0
+volkswagen rabbit custom diesel,1978,Europe,Weight,1985.0
+ford fiesta,1978,USA,Weight,1800.0
+mazda glc deluxe,1978,Japan,Weight,1985.0
+datsun b210 gx,1978,Japan,Weight,2070.0
+honda civic cvcc,1978,Japan,Weight,1800.0
+oldsmobile cutlass salon brougham,1978,USA,Weight,3365.0
+dodge diplomat,1978,USA,Weight,3735.0
+mercury monarch ghia,1978,USA,Weight,3570.0
+pontiac phoenix lj,1978,USA,Weight,3535.0
+chevrolet malibu,1978,USA,Weight,3155.0
+ford fairmont (auto),1978,USA,Weight,2965.0
+ford fairmont (man),1978,USA,Weight,2720.0
+plymouth volare,1978,USA,Weight,3430.0
+amc concord,1978,USA,Weight,3210.0
+buick century special,1978,USA,Weight,3380.0
+mercury zephyr,1978,USA,Weight,3070.0
+dodge aspen,1978,USA,Weight,3620.0
+amc concord d/l,1978,USA,Weight,3410.0
+chevrolet monte carlo landau,1978,USA,Weight,3425.0
+buick regal sport coupe (turbo),1978,USA,Weight,3445.0
+ford futura,1978,USA,Weight,3205.0
+dodge magnum xe,1978,USA,Weight,4080.0
+chevrolet chevette,1978,USA,Weight,2155.0
+toyota corona,1978,Japan,Weight,2560.0
+datsun 510,1978,Japan,Weight,2300.0
+dodge omni,1978,USA,Weight,2230.0
+toyota celica gt liftback,1978,Japan,Weight,2515.0
+plymouth sapporo,1978,USA,Weight,2745.0
+oldsmobile starfire sx,1978,USA,Weight,2855.0
+datsun 200-sx,1978,Japan,Weight,2405.0
+audi 5000,1978,Europe,Weight,2830.0
+volvo 264gl,1978,Europe,Weight,3140.0
+saab 99gle,1978,Europe,Weight,2795.0
+peugeot 604sl,1978,Europe,Weight,3410.0
+volkswagen scirocco,1978,Europe,Weight,1990.0
+honda accord lx,1978,Japan,Weight,2135.0
+pontiac lemans v6,1979,USA,Weight,3245.0
+mercury zephyr 6,1979,USA,Weight,2990.0
+ford fairmont 4,1979,USA,Weight,2890.0
+amc concord dl 6,1979,USA,Weight,3265.0
+dodge aspen 6,1979,USA,Weight,3360.0
+chevrolet caprice classic,1979,USA,Weight,3840.0
+ford ltd landau,1979,USA,Weight,3725.0
+mercury grand marquis,1979,USA,Weight,3955.0
+dodge st. regis,1979,USA,Weight,3830.0
+buick estate wagon (sw),1979,USA,Weight,4360.0
+ford country squire (sw),1979,USA,Weight,4054.0
+chevrolet malibu classic (sw),1979,USA,Weight,3605.0
+chrysler lebaron town @ country (sw),1979,USA,Weight,3940.0
+vw rabbit custom,1979,Europe,Weight,1925.0
+maxda glc deluxe,1979,Japan,Weight,1975.0
+dodge colt hatchback custom,1979,USA,Weight,1915.0
+amc spirit dl,1979,USA,Weight,2670.0
+mercedes benz 300d,1979,Europe,Weight,3530.0
+cadillac eldorado,1979,USA,Weight,3900.0
+peugeot 504,1979,Europe,Weight,3190.0
+oldsmobile cutlass salon brougham,1979,USA,Weight,3420.0
+plymouth horizon,1979,USA,Weight,2200.0
+plymouth horizon tc3,1979,USA,Weight,2150.0
+datsun 210,1979,Japan,Weight,2020.0
+fiat strada custom,1979,Europe,Weight,2130.0
+buick skylark limited,1979,USA,Weight,2670.0
+chevrolet citation,1979,USA,Weight,2595.0
+oldsmobile omega brougham,1979,USA,Weight,2700.0
+pontiac phoenix,1979,USA,Weight,2556.0
+vw rabbit,1980,Europe,Weight,2144.0
+toyota corolla tercel,1980,Japan,Weight,1968.0
+chevrolet chevette,1980,USA,Weight,2120.0
+datsun 310,1980,Japan,Weight,2019.0
+chevrolet citation,1980,USA,Weight,2678.0
+ford fairmont,1980,USA,Weight,2870.0
+amc concord,1980,USA,Weight,3003.0
+dodge aspen,1980,USA,Weight,3381.0
+audi 4000,1980,Europe,Weight,2188.0
+toyota corona liftback,1980,Japan,Weight,2711.0
+mazda 626,1980,Japan,Weight,2542.0
+datsun 510 hatchback,1980,Japan,Weight,2434.0
+toyota corolla,1980,Japan,Weight,2265.0
+mazda glc,1980,Japan,Weight,2110.0
+dodge colt,1980,USA,Weight,2800.0
+datsun 210,1980,Japan,Weight,2110.0
+vw rabbit c (diesel),1980,Europe,Weight,2085.0
+vw dasher (diesel),1980,Europe,Weight,2335.0
+audi 5000s (diesel),1980,Europe,Weight,2950.0
+mercedes-benz 240d,1980,Europe,Weight,3250.0
+honda civic 1500 gl,1980,Japan,Weight,1850.0
+renault lecar deluxe,1980,Europe,Weight,1835.0
+subaru dl,1980,Japan,Weight,2145.0
+vokswagen rabbit,1980,Europe,Weight,1845.0
+datsun 280-zx,1980,Japan,Weight,2910.0
+mazda rx-7 gs,1980,Japan,Weight,2420.0
+triumph tr7 coupe,1980,Europe,Weight,2500.0
+ford mustang cobra,1980,USA,Weight,2905.0
+honda accord,1980,Japan,Weight,2290.0
+plymouth reliant,1981,USA,Weight,2490.0
+buick skylark,1981,USA,Weight,2635.0
+dodge aries wagon (sw),1981,USA,Weight,2620.0
+chevrolet citation,1981,USA,Weight,2725.0
+plymouth reliant,1981,USA,Weight,2385.0
+toyota starlet,1981,Japan,Weight,1755.0
+plymouth champ,1981,USA,Weight,1875.0
+honda civic 1300,1981,Japan,Weight,1760.0
+subaru,1981,Japan,Weight,2065.0
+datsun 210 mpg,1981,Japan,Weight,1975.0
+toyota tercel,1981,Japan,Weight,2050.0
+mazda glc 4,1981,Japan,Weight,1985.0
+plymouth horizon 4,1981,USA,Weight,2215.0
+ford escort 4w,1981,USA,Weight,2045.0
+ford escort 2h,1981,USA,Weight,2380.0
+volkswagen jetta,1981,Europe,Weight,2190.0
+renault 18i,1981,Europe,Weight,2320.0
+honda prelude,1981,Japan,Weight,2210.0
+toyota corolla,1981,Japan,Weight,2350.0
+datsun 200sx,1981,Japan,Weight,2615.0
+mazda 626,1981,Japan,Weight,2635.0
+peugeot 505s turbo diesel,1981,Europe,Weight,3230.0
+volvo diesel,1981,Europe,Weight,3160.0
+toyota cressida,1981,Japan,Weight,2900.0
+datsun 810 maxima,1981,Japan,Weight,2930.0
+buick century,1981,USA,Weight,3415.0
+oldsmobile cutlass ls,1981,USA,Weight,3725.0
+ford granada gl,1981,USA,Weight,3060.0
+chrysler lebaron salon,1981,USA,Weight,3465.0
+chevrolet cavalier,1982,USA,Weight,2605.0
+chevrolet cavalier wagon,1982,USA,Weight,2640.0
+chevrolet cavalier 2-door,1982,USA,Weight,2395.0
+pontiac j2000 se hatchback,1982,USA,Weight,2575.0
+dodge aries se,1982,USA,Weight,2525.0
+pontiac phoenix,1982,USA,Weight,2735.0
+ford fairmont futura,1982,USA,Weight,2865.0
+amc concord dl,1982,USA,Weight,3035.0
+volkswagen rabbit l,1982,Europe,Weight,1980.0
+mazda glc custom l,1982,Japan,Weight,2025.0
+mazda glc custom,1982,Japan,Weight,1970.0
+plymouth horizon miser,1982,USA,Weight,2125.0
+mercury lynx l,1982,USA,Weight,2125.0
+nissan stanza xe,1982,Japan,Weight,2160.0
+honda accord,1982,Japan,Weight,2205.0
+toyota corolla,1982,Japan,Weight,2245.0
+honda civic,1982,Japan,Weight,1965.0
+honda civic (auto),1982,Japan,Weight,1965.0
+datsun 310 gx,1982,Japan,Weight,1995.0
+buick century limited,1982,USA,Weight,2945.0
+oldsmobile cutlass ciera (diesel),1982,USA,Weight,3015.0
+chrysler lebaron medallion,1982,USA,Weight,2585.0
+ford granada l,1982,USA,Weight,2835.0
+toyota celica gt,1982,Japan,Weight,2665.0
+dodge charger 2.2,1982,USA,Weight,2370.0
+chevrolet camaro,1982,USA,Weight,2950.0
+ford mustang gl,1982,USA,Weight,2790.0
+vw pickup,1982,Europe,Weight,2130.0
+dodge rampage,1982,USA,Weight,2295.0
+ford ranger,1982,USA,Weight,2625.0
+chevy s-10,1982,USA,Weight,2720.0
+chevrolet chevelle malibu,1970,USA,Price,25561.59078
+buick skylark 320,1970,USA,Price,24221.42273
+plymouth satellite,1970,USA,Price,27240.84373
+amc rebel sst,1970,USA,Price,33684.96888
+ford torino,1970,USA,Price,20000.0
+ford galaxie 500,1970,USA,Price,30000.0
+chevrolet impala,1970,USA,Price,35764.3349
+plymouth fury iii,1970,USA,Price,25899.46557
+pontiac catalina,1970,USA,Price,32882.53714
+amc ambassador dpl,1970,USA,Price,32617.05928
+dodge challenger se,1970,USA,Price,30000.0
+plymouth 'cuda 340,1970,USA,Price,33034.92261
+chevrolet monte carlo,1970,USA,Price,30000.0
+buick estate wagon (sw),1970,USA,Price,26608.32842
+toyota corona mark ii,1970,Japan,Price,36927.0666
+plymouth duster,1970,USA,Price,12561.10337
+amc hornet,1970,USA,Price,24260.62236
+ford maverick,1970,USA,Price,14228.30388
+datsun pl510,1970,Japan,Price,15802.23935
+volkswagen 1131 deluxe sedan,1970,Europe,Price,27471.29241
+peugeot 504,1970,Europe,Price,40000.0
+audi 100 ls,1970,Europe,Price,35897.43951
+saab 99e,1970,Europe,Price,16905.84258
+bmw 2002,1970,Europe,Price,15047.98937
+amc gremlin,1970,USA,Price,14045.89513
+ford f250,1970,USA,Price,25797.48544
+chevy c20,1970,USA,Price,40000.0
+dodge d200,1970,USA,Price,24928.42041
+hi 1200d,1970,USA,Price,45072.56865
+datsun pl510,1971,Japan,Price,16992.08152
+chevrolet vega 2300,1971,USA,Price,13206.433
+toyota corona,1971,Japan,Price,27078.79795
+ford pinto,1971,USA,Price,26417.43542
+amc gremlin,1971,USA,Price,30000.0
+plymouth satellite custom,1971,USA,Price,44534.97074
+chevrolet chevelle malibu,1971,USA,Price,40000.0
+ford torino 500,1971,USA,Price,30000.0
+amc matador,1971,USA,Price,33970.66561
+chevrolet impala,1971,USA,Price,40000.0
+pontiac catalina brougham,1971,USA,Price,33793.72284
+ford galaxie 500,1971,USA,Price,30000.0
+plymouth fury iii,1971,USA,Price,15358.86347
+dodge monaco (sw),1971,USA,Price,23414.4171
+ford country squire (sw),1971,USA,Price,44211.91218
+pontiac safari (sw),1971,USA,Price,20000.0
+amc hornet sportabout (sw),1971,USA,Price,33328.42698
+chevrolet vega (sw),1971,USA,Price,20000.0
+pontiac firebird,1971,USA,Price,20000.0
+ford mustang,1971,USA,Price,40000.0
+mercury capri 2000,1971,USA,Price,27435.39589
+opel 1900,1971,Europe,Price,20000.0
+peugeot 304,1971,Europe,Price,36587.11859
+fiat 124b,1971,Europe,Price,23790.82939
+toyota corolla 1200,1971,Japan,Price,30000.0
+datsun 1200,1971,Japan,Price,40000.0
+volkswagen model 111,1971,Europe,Price,30000.0
+plymouth cricket,1971,USA,Price,40000.0
+toyota corona hardtop,1972,Japan,Price,40000.0
+dodge colt hardtop,1972,USA,Price,20000.0
+volkswagen type 3,1972,Europe,Price,26196.50504
+chevrolet vega,1972,USA,Price,33019.20813
+ford pinto runabout,1972,USA,Price,36453.30104
+chevrolet impala,1972,USA,Price,40000.0
+pontiac catalina,1972,USA,Price,26062.79358
+plymouth fury iii,1972,USA,Price,34663.83946
+ford galaxie 500,1972,USA,Price,20000.0
+amc ambassador sst,1972,USA,Price,20000.0
+mercury marquis,1972,USA,Price,16223.26834
+buick lesabre custom,1972,USA,Price,5975.709529
+oldsmobile delta 88 royale,1972,USA,Price,40000.0
+chrysler newport royal,1972,USA,Price,33048.80117
+mazda rx2 coupe,1972,Japan,Price,25558.0312
+amc matador (sw),1972,USA,Price,1598.07337
+chevrolet chevelle concours (sw),1972,USA,Price,20000.0
+ford gran torino (sw),1972,USA,Price,30000.0
+plymouth satellite custom (sw),1972,USA,Price,26693.71811
+volvo 145e (sw),1972,Europe,Price,30000.0
+volkswagen 411 (sw),1972,Europe,Price,40000.0
+peugeot 504 (sw),1972,Europe,Price,16035.29706
+renault 12 (sw),1972,Europe,Price,44239.24934
+ford pinto (sw),1972,USA,Price,20000.0
+datsun 510 (sw),1972,Japan,Price,36556.74415
+toyouta corona mark ii (sw),1972,Japan,Price,30000.0
+dodge colt (sw),1972,USA,Price,20000.0
+toyota corolla 1600 (sw),1972,Japan,Price,35088.02866
+buick century 350,1973,USA,Price,20000.0
+amc matador,1973,USA,Price,30000.0
+chevrolet malibu,1973,USA,Price,24364.52222
+ford gran torino,1973,USA,Price,50306.15305
+dodge coronet custom,1973,USA,Price,30000.0
+mercury marquis brougham,1973,USA,Price,30000.0
+chevrolet caprice classic,1973,USA,Price,35052.19209
+ford ltd,1973,USA,Price,36489.40106
+plymouth fury gran sedan,1973,USA,Price,53745.93806
+chrysler new yorker brougham,1973,USA,Price,40000.0
+buick electra 225 custom,1973,USA,Price,26260.63473
+amc ambassador brougham,1973,USA,Price,40000.0
+plymouth valiant,1973,USA,Price,23283.52468
+chevrolet nova custom,1973,USA,Price,30000.0
+amc hornet,1973,USA,Price,30000.0
+ford maverick,1973,USA,Price,33726.80756
+plymouth duster,1973,USA,Price,25211.02753
+volkswagen super beetle,1973,Europe,Price,35994.52571
+chevrolet impala,1973,USA,Price,24794.07439
+ford country,1973,USA,Price,20000.0
+plymouth custom suburb,1973,USA,Price,34078.91407
+oldsmobile vista cruiser,1973,USA,Price,34538.97449
+amc gremlin,1973,USA,Price,17410.01544
+toyota carina,1973,Japan,Price,40000.0
+chevrolet vega,1973,USA,Price,43478.05811
+datsun 610,1973,Japan,Price,20000.0
+maxda rx3,1973,Japan,Price,47897.3504
+ford pinto,1973,USA,Price,40000.0
+mercury capri v6,1973,USA,Price,30000.0
+fiat 124 sport coupe,1973,Europe,Price,20000.0
+chevrolet monte carlo s,1973,USA,Price,26355.63972
+pontiac grand prix,1973,USA,Price,27104.01182
+fiat 128,1973,Europe,Price,30000.0
+opel manta,1973,Europe,Price,30000.0
+audi 100ls,1973,Europe,Price,36717.9042
+volvo 144ea,1973,Europe,Price,30000.0
+dodge dart custom,1973,USA,Price,40000.0
+saab 99le,1973,Europe,Price,30000.0
+toyota mark ii,1973,Japan,Price,30000.0
+oldsmobile omega,1973,USA,Price,9006.648949
+plymouth duster,1974,USA,Price,20000.0
+ford maverick,1974,USA,Price,36836.73869
+amc hornet,1974,USA,Price,30000.0
+chevrolet nova,1974,USA,Price,34166.88994
+datsun b210,1974,Japan,Price,30000.0
+ford pinto,1974,USA,Price,40000.0
+toyota corolla 1200,1974,Japan,Price,50430.44287
+chevrolet vega,1974,USA,Price,30000.0
+chevrolet chevelle malibu classic,1974,USA,Price,20000.0
+amc matador,1974,USA,Price,35815.10738
+plymouth satellite sebring,1974,USA,Price,30000.0
+ford gran torino,1974,USA,Price,27027.84106
+buick century luxus (sw),1974,USA,Price,20000.0
+dodge coronet custom (sw),1974,USA,Price,30000.0
+ford gran torino (sw),1974,USA,Price,43956.27279
+amc matador (sw),1974,USA,Price,30000.0
+audi fox,1974,Europe,Price,27392.70399
+volkswagen dasher,1974,Europe,Price,40000.0
+opel manta,1974,Europe,Price,10064.41815
+toyota corona,1974,Japan,Price,20000.0
+datsun 710,1974,Japan,Price,22599.02117
+dodge colt,1974,USA,Price,30000.0
+fiat 128,1974,Europe,Price,36359.77243
+fiat 124 tc,1974,Europe,Price,24285.00304
+honda civic,1974,Japan,Price,30000.0
+subaru,1974,Japan,Price,26414.50827
+fiat x1.9,1974,Europe,Price,8068.231747
+plymouth valiant custom,1975,USA,Price,20000.0
+chevrolet nova,1975,USA,Price,35725.20247
+mercury monarch,1975,USA,Price,12388.96045
+ford maverick,1975,USA,Price,30000.0
+pontiac catalina,1975,USA,Price,40000.0
+chevrolet bel air,1975,USA,Price,8844.146509
+plymouth grand fury,1975,USA,Price,7250.279362
+ford ltd,1975,USA,Price,40000.0
+buick century,1975,USA,Price,43913.81789
+chevroelt chevelle malibu,1975,USA,Price,16545.00951
+amc matador,1975,USA,Price,25349.77729
+plymouth fury,1975,USA,Price,30000.0
+buick skyhawk,1975,USA,Price,34085.80564
+chevrolet monza 2+2,1975,USA,Price,30000.0
+ford mustang ii,1975,USA,Price,34458.38738
+toyota corolla,1975,Japan,Price,30000.0
+ford pinto,1975,USA,Price,16968.55626
+amc gremlin,1975,USA,Price,22601.17848
+pontiac astro,1975,USA,Price,30000.0
+toyota corona,1975,Japan,Price,5579.395792
+volkswagen dasher,1975,Europe,Price,34295.65704
+datsun 710,1975,Japan,Price,24359.88558
+ford pinto,1975,USA,Price,40000.0
+volkswagen rabbit,1975,Europe,Price,23555.60639
+amc pacer,1975,USA,Price,25780.19772
+audi 100ls,1975,Europe,Price,16577.46275
+peugeot 504,1975,Europe,Price,30000.0
+volvo 244dl,1975,Europe,Price,40000.0
+saab 99le,1975,Europe,Price,17080.97861
+honda civic cvcc,1975,Japan,Price,25436.92235
+fiat 131,1976,Europe,Price,37495.99581
+opel 1900,1976,Europe,Price,23325.54657
+capri ii,1976,USA,Price,30000.0
+dodge colt,1976,USA,Price,33128.29366
+renault 12tl,1976,Europe,Price,30000.0
+chevrolet chevelle malibu classic,1976,USA,Price,25546.68687
+dodge coronet brougham,1976,USA,Price,20000.0
+amc matador,1976,USA,Price,20000.0
+ford gran torino,1976,USA,Price,47075.03525
+plymouth valiant,1976,USA,Price,40000.0
+chevrolet nova,1976,USA,Price,44633.99433
+ford maverick,1976,USA,Price,50179.77946
+amc hornet,1976,USA,Price,13136.84754
+chevrolet chevette,1976,USA,Price,40000.0
+chevrolet woody,1976,USA,Price,30000.0
+vw rabbit,1976,Europe,Price,20000.0
+honda civic,1976,Japan,Price,40000.0
+dodge aspen se,1976,USA,Price,30000.0
+ford granada ghia,1976,USA,Price,26411.47262
+pontiac ventura sj,1976,USA,Price,26090.2785
+amc pacer d/l,1976,USA,Price,30000.0
+volkswagen rabbit,1976,Europe,Price,23640.67856
+datsun b-210,1976,Japan,Price,34072.29922
+toyota corolla,1976,Japan,Price,22682.07397
+ford pinto,1976,USA,Price,40000.0
+volvo 245,1976,Europe,Price,40000.0
+plymouth volare premier v8,1976,USA,Price,22781.28062
+peugeot 504,1976,Europe,Price,26121.73551
+toyota mark ii,1976,Japan,Price,14501.04894
+mercedes-benz 280s,1976,Europe,Price,24937.67586
+cadillac seville,1976,USA,Price,16557.22502
+chevy c10,1976,USA,Price,30000.0
+ford f108,1976,USA,Price,20000.0
+dodge d100,1976,USA,Price,20000.0
+honda accord cvcc,1977,Japan,Price,16288.27844
+buick opel isuzu deluxe,1977,USA,Price,25530.81022
+renault 5 gtl,1977,Europe,Price,20000.0
+plymouth arrow gs,1977,USA,Price,30000.0
+datsun f-10 hatchback,1977,Japan,Price,30000.0
+chevrolet caprice classic,1977,USA,Price,30000.0
+oldsmobile cutlass supreme,1977,USA,Price,30000.0
+dodge monaco brougham,1977,USA,Price,40000.0
+mercury cougar brougham,1977,USA,Price,20000.0
+chevrolet concours,1977,USA,Price,20000.0
+buick skylark,1977,USA,Price,30000.0
+plymouth volare custom,1977,USA,Price,26631.00577
+ford granada,1977,USA,Price,36453.91629
+pontiac grand prix lj,1977,USA,Price,16330.96319
+chevrolet monte carlo landau,1977,USA,Price,40000.0
+chrysler cordoba,1977,USA,Price,20000.0
+ford thunderbird,1977,USA,Price,40000.0
+volkswagen rabbit custom,1977,Europe,Price,44398.38956
+pontiac sunbird coupe,1977,USA,Price,22768.36337
+toyota corolla liftback,1977,Japan,Price,24051.71225
+ford mustang ii 2+2,1977,USA,Price,30000.0
+chevrolet chevette,1977,USA,Price,40000.0
+dodge colt m/m,1977,USA,Price,36578.74535
+subaru dl,1977,Japan,Price,32735.65751
+volkswagen dasher,1977,Europe,Price,20000.0
+datsun 810,1977,Japan,Price,42883.25641
+bmw 320i,1977,Europe,Price,23927.44248
+mazda rx-4,1977,Japan,Price,23761.78388
+volkswagen rabbit custom diesel,1978,Europe,Price,30000.0
+ford fiesta,1978,USA,Price,30000.0
+mazda glc deluxe,1978,Japan,Price,32914.19287
+datsun b210 gx,1978,Japan,Price,40000.0
+honda civic cvcc,1978,Japan,Price,30000.0
+oldsmobile cutlass salon brougham,1978,USA,Price,30000.0
+dodge diplomat,1978,USA,Price,40000.0
+mercury monarch ghia,1978,USA,Price,34088.83024
+pontiac phoenix lj,1978,USA,Price,30000.0
+chevrolet malibu,1978,USA,Price,20000.0
+ford fairmont (auto),1978,USA,Price,30000.0
+ford fairmont (man),1978,USA,Price,40000.0
+plymouth volare,1978,USA,Price,30000.0
+amc concord,1978,USA,Price,30000.0
+buick century special,1978,USA,Price,40000.0
+mercury zephyr,1978,USA,Price,33560.68798
+dodge aspen,1978,USA,Price,33043.99134
+amc concord d/l,1978,USA,Price,25625.9722
+chevrolet monte carlo landau,1978,USA,Price,50024.68887
+buick regal sport coupe (turbo),1978,USA,Price,20000.0
+ford futura,1978,USA,Price,35375.46418
+dodge magnum xe,1978,USA,Price,26331.12328
+chevrolet chevette,1978,USA,Price,49295.84839
+toyota corona,1978,Japan,Price,30000.0
+datsun 510,1978,Japan,Price,35110.41972
+dodge omni,1978,USA,Price,24166.91123
+toyota celica gt liftback,1978,Japan,Price,14511.79472
+plymouth sapporo,1978,USA,Price,36338.23478
+oldsmobile starfire sx,1978,USA,Price,30000.0
+datsun 200-sx,1978,Japan,Price,47709.82064
+audi 5000,1978,Europe,Price,43261.82962
+volvo 264gl,1978,Europe,Price,44815.87905
+saab 99gle,1978,Europe,Price,47597.90265
+peugeot 604sl,1978,Europe,Price,23051.89547
+volkswagen scirocco,1978,Europe,Price,30000.0
+honda accord lx,1978,Japan,Price,20000.0
+pontiac lemans v6,1979,USA,Price,20000.0
+mercury zephyr 6,1979,USA,Price,37443.85589
+ford fairmont 4,1979,USA,Price,20000.0
+amc concord dl 6,1979,USA,Price,12840.57863
+dodge aspen 6,1979,USA,Price,26927.11569
+chevrolet caprice classic,1979,USA,Price,30000.0
+ford ltd landau,1979,USA,Price,52480.06755
+mercury grand marquis,1979,USA,Price,13073.58541
+dodge st. regis,1979,USA,Price,8766.444652
+buick estate wagon (sw),1979,USA,Price,24606.12234
+ford country squire (sw),1979,USA,Price,25696.08888
+chevrolet malibu classic (sw),1979,USA,Price,26157.23515
+chrysler lebaron town @ country (sw),1979,USA,Price,14944.48848
+vw rabbit custom,1979,Europe,Price,40000.0
+maxda glc deluxe,1979,Japan,Price,20000.0
+dodge colt hatchback custom,1979,USA,Price,44271.59324
+amc spirit dl,1979,USA,Price,40000.0
+mercedes benz 300d,1979,Europe,Price,20000.0
+cadillac eldorado,1979,USA,Price,44274.40748
+peugeot 504,1979,Europe,Price,24639.37404
+oldsmobile cutlass salon brougham,1979,USA,Price,33062.12043
+plymouth horizon,1979,USA,Price,30000.0
+plymouth horizon tc3,1979,USA,Price,22906.70081
+datsun 210,1979,Japan,Price,30000.0
+fiat strada custom,1979,Europe,Price,30000.0
+buick skylark limited,1979,USA,Price,33322.52047
+chevrolet citation,1979,USA,Price,30000.0
+oldsmobile omega brougham,1979,USA,Price,45923.53551
+pontiac phoenix,1979,USA,Price,49548.62273
+vw rabbit,1980,Europe,Price,48911.31371
+toyota corolla tercel,1980,Japan,Price,20000.0
+chevrolet chevette,1980,USA,Price,8400.696736
+datsun 310,1980,Japan,Price,34035.28481
+chevrolet citation,1980,USA,Price,34799.28206
+ford fairmont,1980,USA,Price,17032.34506
+amc concord,1980,USA,Price,30000.0
+dodge aspen,1980,USA,Price,30000.0
+audi 4000,1980,Europe,Price,40000.0
+toyota corona liftback,1980,Japan,Price,40000.0
+mazda 626,1980,Japan,Price,27206.13784
+datsun 510 hatchback,1980,Japan,Price,47697.07716
+toyota corolla,1980,Japan,Price,30000.0
+mazda glc,1980,Japan,Price,30000.0
+dodge colt,1980,USA,Price,52035.83362
+datsun 210,1980,Japan,Price,26407.84375
+vw rabbit c (diesel),1980,Europe,Price,51239.14421
+vw dasher (diesel),1980,Europe,Price,40000.0
+audi 5000s (diesel),1980,Europe,Price,44494.54404
+mercedes-benz 240d,1980,Europe,Price,20000.0
+honda civic 1500 gl,1980,Japan,Price,20000.0
+renault lecar deluxe,1980,Europe,Price,32650.65157
+subaru dl,1980,Japan,Price,35335.98307
+vokswagen rabbit,1980,Europe,Price,30000.0
+datsun 280-zx,1980,Japan,Price,25944.32515
+mazda rx-7 gs,1980,Japan,Price,44730.24616
+triumph tr7 coupe,1980,Europe,Price,30000.0
+ford mustang cobra,1980,USA,Price,24749.73654
+honda accord,1980,Japan,Price,40000.0
+plymouth reliant,1981,USA,Price,43221.37222
+buick skylark,1981,USA,Price,20000.0
+dodge aries wagon (sw),1981,USA,Price,11460.90571
+chevrolet citation,1981,USA,Price,40000.0
+plymouth reliant,1981,USA,Price,33838.41277
+toyota starlet,1981,Japan,Price,30000.0
+plymouth champ,1981,USA,Price,24040.39328
+honda civic 1300,1981,Japan,Price,26717.10084
+subaru,1981,Japan,Price,13900.61538
+datsun 210 mpg,1981,Japan,Price,17268.17018
+toyota tercel,1981,Japan,Price,50475.68786
+mazda glc 4,1981,Japan,Price,49150.57563
+plymouth horizon 4,1981,USA,Price,30000.0
+ford escort 4w,1981,USA,Price,20000.0
+ford escort 2h,1981,USA,Price,20000.0
+volkswagen jetta,1981,Europe,Price,30000.0
+renault 18i,1981,Europe,Price,30000.0
+honda prelude,1981,Japan,Price,20000.0
+toyota corolla,1981,Japan,Price,30000.0
+datsun 200sx,1981,Japan,Price,30000.0
+mazda 626,1981,Japan,Price,40000.0
+peugeot 505s turbo diesel,1981,Europe,Price,20000.0
+volvo diesel,1981,Europe,Price,40000.0
+toyota cressida,1981,Japan,Price,30000.0
+datsun 810 maxima,1981,Japan,Price,32646.39951
+buick century,1981,USA,Price,25571.46894
+oldsmobile cutlass ls,1981,USA,Price,30000.0
+ford granada gl,1981,USA,Price,30000.0
+chrysler lebaron salon,1981,USA,Price,23723.77532
+chevrolet cavalier,1982,USA,Price,27234.66428
+chevrolet cavalier wagon,1982,USA,Price,42666.91377
+chevrolet cavalier 2-door,1982,USA,Price,40000.0
+pontiac j2000 se hatchback,1982,USA,Price,27074.39484
+dodge aries se,1982,USA,Price,20000.0
+pontiac phoenix,1982,USA,Price,33111.13808
+ford fairmont futura,1982,USA,Price,51186.91521
+amc concord dl,1982,USA,Price,37179.28797
+volkswagen rabbit l,1982,Europe,Price,33472.79144
+mazda glc custom l,1982,Japan,Price,44607.86606
+mazda glc custom,1982,Japan,Price,34686.42339
+plymouth horizon miser,1982,USA,Price,48111.1021
+mercury lynx l,1982,USA,Price,30000.0
+nissan stanza xe,1982,Japan,Price,34612.00874
+honda accord,1982,Japan,Price,30000.0
+toyota corolla,1982,Japan,Price,30000.0
+honda civic,1982,Japan,Price,30000.0
+honda civic (auto),1982,Japan,Price,30000.0
+datsun 310 gx,1982,Japan,Price,30000.0
+buick century limited,1982,USA,Price,25289.83381
+oldsmobile cutlass ciera (diesel),1982,USA,Price,9944.306349
+chrysler lebaron medallion,1982,USA,Price,34986.21836
+ford granada l,1982,USA,Price,22973.01943
+toyota celica gt,1982,Japan,Price,20000.0
+dodge charger 2.2,1982,USA,Price,17421.6269
+chevrolet camaro,1982,USA,Price,12550.0
+ford mustang gl,1982,USA,Price,13432.5
+vw pickup,1982,Europe,Price,37000.0
+dodge rampage,1982,USA,Price,47800.0
+ford ranger,1982,USA,Price,46000.0
+chevy s-10,1982,USA,Price,9000.0
+chevrolet chevelle malibu,1970,USA,HP,130.0
+buick skylark 320,1970,USA,HP,165.0
+plymouth satellite,1970,USA,HP,150.0
+amc rebel sst,1970,USA,HP,150.0
+ford torino,1970,USA,HP,140.0
+ford galaxie 500,1970,USA,HP,198.0
+chevrolet impala,1970,USA,HP,220.0
+plymouth fury iii,1970,USA,HP,215.0
+pontiac catalina,1970,USA,HP,225.0
+amc ambassador dpl,1970,USA,HP,190.0
+dodge challenger se,1970,USA,HP,170.0
+plymouth 'cuda 340,1970,USA,HP,160.0
+chevrolet monte carlo,1970,USA,HP,150.0
+buick estate wagon (sw),1970,USA,HP,225.0
+toyota corona mark ii,1970,Japan,HP,95.0
+plymouth duster,1970,USA,HP,95.0
+amc hornet,1970,USA,HP,97.0
+ford maverick,1970,USA,HP,85.0
+datsun pl510,1970,Japan,HP,88.0
+volkswagen 1131 deluxe sedan,1970,Europe,HP,46.0
+peugeot 504,1970,Europe,HP,87.0
+audi 100 ls,1970,Europe,HP,90.0
+saab 99e,1970,Europe,HP,95.0
+bmw 2002,1970,Europe,HP,113.0
+amc gremlin,1970,USA,HP,90.0
+ford f250,1970,USA,HP,215.0
+chevy c20,1970,USA,HP,200.0
+dodge d200,1970,USA,HP,210.0
+hi 1200d,1970,USA,HP,193.0
+datsun pl510,1971,Japan,HP,88.0
+chevrolet vega 2300,1971,USA,HP,90.0
+toyota corona,1971,Japan,HP,95.0
+amc gremlin,1971,USA,HP,100.0
+plymouth satellite custom,1971,USA,HP,105.0
+chevrolet chevelle malibu,1971,USA,HP,100.0
+ford torino 500,1971,USA,HP,88.0
+amc matador,1971,USA,HP,100.0
+chevrolet impala,1971,USA,HP,165.0
+pontiac catalina brougham,1971,USA,HP,175.0
+ford galaxie 500,1971,USA,HP,153.0
+plymouth fury iii,1971,USA,HP,150.0
+dodge monaco (sw),1971,USA,HP,180.0
+ford country squire (sw),1971,USA,HP,170.0
+pontiac safari (sw),1971,USA,HP,175.0
+amc hornet sportabout (sw),1971,USA,HP,110.0
+chevrolet vega (sw),1971,USA,HP,72.0
+pontiac firebird,1971,USA,HP,100.0
+ford mustang,1971,USA,HP,88.0
+mercury capri 2000,1971,USA,HP,86.0
+opel 1900,1971,Europe,HP,90.0
+peugeot 304,1971,Europe,HP,70.0
+fiat 124b,1971,Europe,HP,76.0
+toyota corolla 1200,1971,Japan,HP,65.0
+datsun 1200,1971,Japan,HP,69.0
+volkswagen model 111,1971,Europe,HP,60.0
+plymouth cricket,1971,USA,HP,70.0
+toyota corona hardtop,1972,Japan,HP,95.0
+dodge colt hardtop,1972,USA,HP,80.0
+volkswagen type 3,1972,Europe,HP,54.0
+chevrolet vega,1972,USA,HP,90.0
+ford pinto runabout,1972,USA,HP,86.0
+chevrolet impala,1972,USA,HP,165.0
+pontiac catalina,1972,USA,HP,175.0
+plymouth fury iii,1972,USA,HP,150.0
+ford galaxie 500,1972,USA,HP,153.0
+amc ambassador sst,1972,USA,HP,150.0
+mercury marquis,1972,USA,HP,208.0
+buick lesabre custom,1972,USA,HP,155.0
+oldsmobile delta 88 royale,1972,USA,HP,160.0
+chrysler newport royal,1972,USA,HP,190.0
+mazda rx2 coupe,1972,Japan,HP,97.0
+amc matador (sw),1972,USA,HP,150.0
+chevrolet chevelle concours (sw),1972,USA,HP,130.0
+ford gran torino (sw),1972,USA,HP,140.0
+plymouth satellite custom (sw),1972,USA,HP,150.0
+volvo 145e (sw),1972,Europe,HP,112.0
+volkswagen 411 (sw),1972,Europe,HP,76.0
+peugeot 504 (sw),1972,Europe,HP,87.0
+renault 12 (sw),1972,Europe,HP,69.0
+ford pinto (sw),1972,USA,HP,86.0
+datsun 510 (sw),1972,Japan,HP,92.0
+toyouta corona mark ii (sw),1972,Japan,HP,97.0
+dodge colt (sw),1972,USA,HP,80.0
+toyota corolla 1600 (sw),1972,Japan,HP,88.0
+buick century 350,1973,USA,HP,175.0
+amc matador,1973,USA,HP,150.0
+chevrolet malibu,1973,USA,HP,145.0
+ford gran torino,1973,USA,HP,137.0
+dodge coronet custom,1973,USA,HP,150.0
+mercury marquis brougham,1973,USA,HP,198.0
+chevrolet caprice classic,1973,USA,HP,150.0
+ford ltd,1973,USA,HP,158.0
+plymouth fury gran sedan,1973,USA,HP,150.0
+chrysler new yorker brougham,1973,USA,HP,215.0
+buick electra 225 custom,1973,USA,HP,225.0
+amc ambassador brougham,1973,USA,HP,175.0
+plymouth valiant,1973,USA,HP,105.0
+chevrolet nova custom,1973,USA,HP,100.0
+amc hornet,1973,USA,HP,100.0
+ford maverick,1973,USA,HP,88.0
+plymouth duster,1973,USA,HP,95.0
+volkswagen super beetle,1973,Europe,HP,46.0
+chevrolet impala,1973,USA,HP,150.0
+ford country,1973,USA,HP,167.0
+plymouth custom suburb,1973,USA,HP,170.0
+oldsmobile vista cruiser,1973,USA,HP,180.0
+amc gremlin,1973,USA,HP,100.0
+toyota carina,1973,Japan,HP,88.0
+chevrolet vega,1973,USA,HP,72.0
+datsun 610,1973,Japan,HP,94.0
+maxda rx3,1973,Japan,HP,90.0
+ford pinto,1973,USA,HP,85.0
+mercury capri v6,1973,USA,HP,107.0
+fiat 124 sport coupe,1973,Europe,HP,90.0
+chevrolet monte carlo s,1973,USA,HP,145.0
+pontiac grand prix,1973,USA,HP,230.0
+fiat 128,1973,Europe,HP,49.0
+opel manta,1973,Europe,HP,75.0
+audi 100ls,1973,Europe,HP,91.0
+volvo 144ea,1973,Europe,HP,112.0
+dodge dart custom,1973,USA,HP,150.0
+saab 99le,1973,Europe,HP,110.0
+toyota mark ii,1973,Japan,HP,122.0
+oldsmobile omega,1973,USA,HP,180.0
+plymouth duster,1974,USA,HP,95.0
+amc hornet,1974,USA,HP,100.0
+chevrolet nova,1974,USA,HP,100.0
+datsun b210,1974,Japan,HP,67.0
+ford pinto,1974,USA,HP,80.0
+toyota corolla 1200,1974,Japan,HP,65.0
+chevrolet vega,1974,USA,HP,75.0
+chevrolet chevelle malibu classic,1974,USA,HP,100.0
+amc matador,1974,USA,HP,110.0
+plymouth satellite sebring,1974,USA,HP,105.0
+ford gran torino,1974,USA,HP,140.0
+buick century luxus (sw),1974,USA,HP,150.0
+dodge coronet custom (sw),1974,USA,HP,150.0
+ford gran torino (sw),1974,USA,HP,140.0
+amc matador (sw),1974,USA,HP,150.0
+audi fox,1974,Europe,HP,83.0
+volkswagen dasher,1974,Europe,HP,67.0
+opel manta,1974,Europe,HP,78.0
+toyota corona,1974,Japan,HP,52.0
+datsun 710,1974,Japan,HP,61.0
+dodge colt,1974,USA,HP,75.0
+fiat 128,1974,Europe,HP,75.0
+fiat 124 tc,1974,Europe,HP,75.0
+honda civic,1974,Japan,HP,97.0
+subaru,1974,Japan,HP,93.0
+fiat x1.9,1974,Europe,HP,67.0
+plymouth valiant custom,1975,USA,HP,95.0
+chevrolet nova,1975,USA,HP,105.0
+mercury monarch,1975,USA,HP,72.0
+ford maverick,1975,USA,HP,72.0
+pontiac catalina,1975,USA,HP,170.0
+chevrolet bel air,1975,USA,HP,145.0
+plymouth grand fury,1975,USA,HP,150.0
+ford ltd,1975,USA,HP,148.0
+buick century,1975,USA,HP,110.0
+chevroelt chevelle malibu,1975,USA,HP,105.0
+amc matador,1975,USA,HP,110.0
+plymouth fury,1975,USA,HP,95.0
+buick skyhawk,1975,USA,HP,110.0
+chevrolet monza 2+2,1975,USA,HP,110.0
+ford mustang ii,1975,USA,HP,129.0
+toyota corolla,1975,Japan,HP,75.0
+ford pinto,1975,USA,HP,83.0
+amc gremlin,1975,USA,HP,100.0
+pontiac astro,1975,USA,HP,78.0
+toyota corona,1975,Japan,HP,96.0
+volkswagen dasher,1975,Europe,HP,71.0
+datsun 710,1975,Japan,HP,97.0
+ford pinto,1975,USA,HP,97.0
+volkswagen rabbit,1975,Europe,HP,70.0
+amc pacer,1975,USA,HP,90.0
+audi 100ls,1975,Europe,HP,95.0
+peugeot 504,1975,Europe,HP,88.0
+volvo 244dl,1975,Europe,HP,98.0
+saab 99le,1975,Europe,HP,115.0
+honda civic cvcc,1975,Japan,HP,53.0
+fiat 131,1976,Europe,HP,86.0
+opel 1900,1976,Europe,HP,81.0
+capri ii,1976,USA,HP,92.0
+dodge colt,1976,USA,HP,79.0
+renault 12tl,1976,Europe,HP,83.0
+chevrolet chevelle malibu classic,1976,USA,HP,140.0
+dodge coronet brougham,1976,USA,HP,150.0
+amc matador,1976,USA,HP,120.0
+ford gran torino,1976,USA,HP,152.0
+plymouth valiant,1976,USA,HP,100.0
+chevrolet nova,1976,USA,HP,105.0
+ford maverick,1976,USA,HP,81.0
+amc hornet,1976,USA,HP,90.0
+chevrolet chevette,1976,USA,HP,52.0
+chevrolet woody,1976,USA,HP,60.0
+vw rabbit,1976,Europe,HP,70.0
+honda civic,1976,Japan,HP,53.0
+dodge aspen se,1976,USA,HP,100.0
+ford granada ghia,1976,USA,HP,78.0
+pontiac ventura sj,1976,USA,HP,110.0
+amc pacer d/l,1976,USA,HP,95.0
+volkswagen rabbit,1976,Europe,HP,71.0
+datsun b-210,1976,Japan,HP,70.0
+toyota corolla,1976,Japan,HP,75.0
+ford pinto,1976,USA,HP,72.0
+volvo 245,1976,Europe,HP,102.0
+plymouth volare premier v8,1976,USA,HP,150.0
+peugeot 504,1976,Europe,HP,88.0
+toyota mark ii,1976,Japan,HP,108.0
+mercedes-benz 280s,1976,Europe,HP,120.0
+cadillac seville,1976,USA,HP,180.0
+chevy c10,1976,USA,HP,145.0
+ford f108,1976,USA,HP,130.0
+dodge d100,1976,USA,HP,150.0
+honda accord cvcc,1977,Japan,HP,68.0
+buick opel isuzu deluxe,1977,USA,HP,80.0
+renault 5 gtl,1977,Europe,HP,58.0
+plymouth arrow gs,1977,USA,HP,96.0
+datsun f-10 hatchback,1977,Japan,HP,70.0
+chevrolet caprice classic,1977,USA,HP,145.0
+oldsmobile cutlass supreme,1977,USA,HP,110.0
+dodge monaco brougham,1977,USA,HP,145.0
+mercury cougar brougham,1977,USA,HP,130.0
+chevrolet concours,1977,USA,HP,110.0
+buick skylark,1977,USA,HP,105.0
+plymouth volare custom,1977,USA,HP,100.0
+ford granada,1977,USA,HP,98.0
+pontiac grand prix lj,1977,USA,HP,180.0
+chevrolet monte carlo landau,1977,USA,HP,170.0
+chrysler cordoba,1977,USA,HP,190.0
+ford thunderbird,1977,USA,HP,149.0
+volkswagen rabbit custom,1977,Europe,HP,78.0
+pontiac sunbird coupe,1977,USA,HP,88.0
+toyota corolla liftback,1977,Japan,HP,75.0
+ford mustang ii 2+2,1977,USA,HP,89.0
+chevrolet chevette,1977,USA,HP,63.0
+dodge colt m/m,1977,USA,HP,83.0
+subaru dl,1977,Japan,HP,67.0
+volkswagen dasher,1977,Europe,HP,78.0
+datsun 810,1977,Japan,HP,97.0
+bmw 320i,1977,Europe,HP,110.0
+mazda rx-4,1977,Japan,HP,110.0
+volkswagen rabbit custom diesel,1978,Europe,HP,48.0
+ford fiesta,1978,USA,HP,66.0
+mazda glc deluxe,1978,Japan,HP,52.0
+datsun b210 gx,1978,Japan,HP,70.0
+honda civic cvcc,1978,Japan,HP,60.0
+oldsmobile cutlass salon brougham,1978,USA,HP,110.0
+dodge diplomat,1978,USA,HP,140.0
+mercury monarch ghia,1978,USA,HP,139.0
+pontiac phoenix lj,1978,USA,HP,105.0
+chevrolet malibu,1978,USA,HP,95.0
+ford fairmont (auto),1978,USA,HP,85.0
+ford fairmont (man),1978,USA,HP,88.0
+plymouth volare,1978,USA,HP,100.0
+amc concord,1978,USA,HP,90.0
+buick century special,1978,USA,HP,105.0
+mercury zephyr,1978,USA,HP,85.0
+dodge aspen,1978,USA,HP,110.0
+amc concord d/l,1978,USA,HP,120.0
+chevrolet monte carlo landau,1978,USA,HP,145.0
+buick regal sport coupe (turbo),1978,USA,HP,165.0
+ford futura,1978,USA,HP,139.0
+dodge magnum xe,1978,USA,HP,140.0
+chevrolet chevette,1978,USA,HP,68.0
+toyota corona,1978,Japan,HP,95.0
+datsun 510,1978,Japan,HP,97.0
+dodge omni,1978,USA,HP,75.0
+toyota celica gt liftback,1978,Japan,HP,95.0
+plymouth sapporo,1978,USA,HP,105.0
+oldsmobile starfire sx,1978,USA,HP,85.0
+datsun 200-sx,1978,Japan,HP,97.0
+audi 5000,1978,Europe,HP,103.0
+volvo 264gl,1978,Europe,HP,125.0
+saab 99gle,1978,Europe,HP,115.0
+peugeot 604sl,1978,Europe,HP,133.0
+volkswagen scirocco,1978,Europe,HP,71.0
+honda accord lx,1978,Japan,HP,68.0
+pontiac lemans v6,1979,USA,HP,115.0
+mercury zephyr 6,1979,USA,HP,85.0
+ford fairmont 4,1979,USA,HP,88.0
+amc concord dl 6,1979,USA,HP,90.0
+dodge aspen 6,1979,USA,HP,110.0
+chevrolet caprice classic,1979,USA,HP,130.0
+ford ltd landau,1979,USA,HP,129.0
+mercury grand marquis,1979,USA,HP,138.0
+dodge st. regis,1979,USA,HP,135.0
+buick estate wagon (sw),1979,USA,HP,155.0
+ford country squire (sw),1979,USA,HP,142.0
+chevrolet malibu classic (sw),1979,USA,HP,125.0
+chrysler lebaron town @ country (sw),1979,USA,HP,150.0
+vw rabbit custom,1979,Europe,HP,71.0
+maxda glc deluxe,1979,Japan,HP,65.0
+dodge colt hatchback custom,1979,USA,HP,80.0
+amc spirit dl,1979,USA,HP,80.0
+mercedes benz 300d,1979,Europe,HP,77.0
+cadillac eldorado,1979,USA,HP,125.0
+peugeot 504,1979,Europe,HP,71.0
+oldsmobile cutlass salon brougham,1979,USA,HP,90.0
+plymouth horizon,1979,USA,HP,70.0
+plymouth horizon tc3,1979,USA,HP,70.0
+datsun 210,1979,Japan,HP,65.0
+fiat strada custom,1979,Europe,HP,69.0
+buick skylark limited,1979,USA,HP,90.0
+chevrolet citation,1979,USA,HP,115.0
+oldsmobile omega brougham,1979,USA,HP,115.0
+pontiac phoenix,1979,USA,HP,90.0
+vw rabbit,1980,Europe,HP,76.0
+toyota corolla tercel,1980,Japan,HP,60.0
+chevrolet chevette,1980,USA,HP,70.0
+datsun 310,1980,Japan,HP,65.0
+chevrolet citation,1980,USA,HP,90.0
+ford fairmont,1980,USA,HP,88.0
+amc concord,1980,USA,HP,90.0
+dodge aspen,1980,USA,HP,90.0
+audi 4000,1980,Europe,HP,78.0
+toyota corona liftback,1980,Japan,HP,90.0
+mazda 626,1980,Japan,HP,75.0
+datsun 510 hatchback,1980,Japan,HP,92.0
+toyota corolla,1980,Japan,HP,75.0
+mazda glc,1980,Japan,HP,65.0
+dodge colt,1980,USA,HP,105.0
+datsun 210,1980,Japan,HP,65.0
+vw rabbit c (diesel),1980,Europe,HP,48.0
+vw dasher (diesel),1980,Europe,HP,48.0
+audi 5000s (diesel),1980,Europe,HP,67.0
+mercedes-benz 240d,1980,Europe,HP,67.0
+honda civic 1500 gl,1980,Japan,HP,67.0
+subaru dl,1980,Japan,HP,67.0
+vokswagen rabbit,1980,Europe,HP,62.0
+datsun 280-zx,1980,Japan,HP,132.0
+mazda rx-7 gs,1980,Japan,HP,100.0
+triumph tr7 coupe,1980,Europe,HP,88.0
+honda accord,1980,Japan,HP,72.0
+plymouth reliant,1981,USA,HP,84.0
+buick skylark,1981,USA,HP,84.0
+dodge aries wagon (sw),1981,USA,HP,92.0
+chevrolet citation,1981,USA,HP,110.0
+plymouth reliant,1981,USA,HP,84.0
+toyota starlet,1981,Japan,HP,58.0
+plymouth champ,1981,USA,HP,64.0
+honda civic 1300,1981,Japan,HP,60.0
+subaru,1981,Japan,HP,67.0
+datsun 210 mpg,1981,Japan,HP,65.0
+toyota tercel,1981,Japan,HP,62.0
+mazda glc 4,1981,Japan,HP,68.0
+plymouth horizon 4,1981,USA,HP,63.0
+ford escort 4w,1981,USA,HP,65.0
+ford escort 2h,1981,USA,HP,65.0
+volkswagen jetta,1981,Europe,HP,74.0
+honda prelude,1981,Japan,HP,75.0
+toyota corolla,1981,Japan,HP,75.0
+datsun 200sx,1981,Japan,HP,100.0
+mazda 626,1981,Japan,HP,74.0
+peugeot 505s turbo diesel,1981,Europe,HP,80.0
+volvo diesel,1981,Europe,HP,76.0
+toyota cressida,1981,Japan,HP,116.0
+datsun 810 maxima,1981,Japan,HP,120.0
+buick century,1981,USA,HP,110.0
+oldsmobile cutlass ls,1981,USA,HP,105.0
+ford granada gl,1981,USA,HP,88.0
+chrysler lebaron salon,1981,USA,HP,85.0
+chevrolet cavalier,1982,USA,HP,88.0
+chevrolet cavalier wagon,1982,USA,HP,88.0
+chevrolet cavalier 2-door,1982,USA,HP,88.0
+pontiac j2000 se hatchback,1982,USA,HP,85.0
+dodge aries se,1982,USA,HP,84.0
+pontiac phoenix,1982,USA,HP,90.0
+ford fairmont futura,1982,USA,HP,92.0
+volkswagen rabbit l,1982,Europe,HP,74.0
+mazda glc custom l,1982,Japan,HP,68.0
+mazda glc custom,1982,Japan,HP,68.0
+plymouth horizon miser,1982,USA,HP,63.0
+mercury lynx l,1982,USA,HP,70.0
+nissan stanza xe,1982,Japan,HP,88.0
+honda accord,1982,Japan,HP,75.0
+toyota corolla,1982,Japan,HP,70.0
+honda civic,1982,Japan,HP,67.0
+honda civic (auto),1982,Japan,HP,67.0
+datsun 310 gx,1982,Japan,HP,67.0
+buick century limited,1982,USA,HP,110.0
+oldsmobile cutlass ciera (diesel),1982,USA,HP,85.0
+chrysler lebaron medallion,1982,USA,HP,92.0
+ford granada l,1982,USA,HP,112.0
+toyota celica gt,1982,Japan,HP,96.0
+dodge charger 2.2,1982,USA,HP,84.0
+chevrolet camaro,1982,USA,HP,90.0
+ford mustang gl,1982,USA,HP,86.0
+vw pickup,1982,Europe,HP,52.0
+dodge rampage,1982,USA,HP,84.0
+ford ranger,1982,USA,HP,79.0
+chevy s-10,1982,USA,HP,82.0
+chevrolet chevelle malibu,1970,USA,Acceleration,12.0
+buick skylark 320,1970,USA,Acceleration,11.5
+plymouth satellite,1970,USA,Acceleration,11.0
+amc rebel sst,1970,USA,Acceleration,12.0
+ford torino,1970,USA,Acceleration,10.5
+ford galaxie 500,1970,USA,Acceleration,10.0
+chevrolet impala,1970,USA,Acceleration,9.0
+plymouth fury iii,1970,USA,Acceleration,8.5
+pontiac catalina,1970,USA,Acceleration,10.0
+amc ambassador dpl,1970,USA,Acceleration,8.5
+dodge challenger se,1970,USA,Acceleration,10.0
+plymouth 'cuda 340,1970,USA,Acceleration,8.0
+chevrolet monte carlo,1970,USA,Acceleration,9.5
+buick estate wagon (sw),1970,USA,Acceleration,10.0
+toyota corona mark ii,1970,Japan,Acceleration,15.0
+plymouth duster,1970,USA,Acceleration,15.5
+amc hornet,1970,USA,Acceleration,15.5
+ford maverick,1970,USA,Acceleration,16.0
+datsun pl510,1970,Japan,Acceleration,14.5
+volkswagen 1131 deluxe sedan,1970,Europe,Acceleration,20.5
+peugeot 504,1970,Europe,Acceleration,17.5
+audi 100 ls,1970,Europe,Acceleration,14.5
+saab 99e,1970,Europe,Acceleration,17.5
+bmw 2002,1970,Europe,Acceleration,12.5
+amc gremlin,1970,USA,Acceleration,15.0
+ford f250,1970,USA,Acceleration,14.0
+chevy c20,1970,USA,Acceleration,15.0
+dodge d200,1970,USA,Acceleration,13.5
+hi 1200d,1970,USA,Acceleration,18.5
+datsun pl510,1971,Japan,Acceleration,14.5
+chevrolet vega 2300,1971,USA,Acceleration,15.5
+toyota corona,1971,Japan,Acceleration,14.0
+ford pinto,1971,USA,Acceleration,19.0
+amc gremlin,1971,USA,Acceleration,13.0
+plymouth satellite custom,1971,USA,Acceleration,15.5
+chevrolet chevelle malibu,1971,USA,Acceleration,15.5
+ford torino 500,1971,USA,Acceleration,15.5
+amc matador,1971,USA,Acceleration,15.5
+chevrolet impala,1971,USA,Acceleration,12.0
+pontiac catalina brougham,1971,USA,Acceleration,11.5
+ford galaxie 500,1971,USA,Acceleration,13.5
+plymouth fury iii,1971,USA,Acceleration,13.0
+dodge monaco (sw),1971,USA,Acceleration,11.5
+ford country squire (sw),1971,USA,Acceleration,12.0
+pontiac safari (sw),1971,USA,Acceleration,12.0
+amc hornet sportabout (sw),1971,USA,Acceleration,13.5
+chevrolet vega (sw),1971,USA,Acceleration,19.0
+pontiac firebird,1971,USA,Acceleration,15.0
+ford mustang,1971,USA,Acceleration,14.5
+mercury capri 2000,1971,USA,Acceleration,14.0
+opel 1900,1971,Europe,Acceleration,14.0
+peugeot 304,1971,Europe,Acceleration,19.5
+fiat 124b,1971,Europe,Acceleration,14.5
+toyota corolla 1200,1971,Japan,Acceleration,19.0
+datsun 1200,1971,Japan,Acceleration,18.0
+volkswagen model 111,1971,Europe,Acceleration,19.0
+plymouth cricket,1971,USA,Acceleration,20.5
+toyota corona hardtop,1972,Japan,Acceleration,15.5
+dodge colt hardtop,1972,USA,Acceleration,17.0
+volkswagen type 3,1972,Europe,Acceleration,23.5
+chevrolet vega,1972,USA,Acceleration,19.5
+ford pinto runabout,1972,USA,Acceleration,16.5
+chevrolet impala,1972,USA,Acceleration,12.0
+pontiac catalina,1972,USA,Acceleration,12.0
+plymouth fury iii,1972,USA,Acceleration,13.5
+ford galaxie 500,1972,USA,Acceleration,13.0
+amc ambassador sst,1972,USA,Acceleration,11.5
+mercury marquis,1972,USA,Acceleration,11.0
+buick lesabre custom,1972,USA,Acceleration,13.5
+oldsmobile delta 88 royale,1972,USA,Acceleration,13.5
+chrysler newport royal,1972,USA,Acceleration,12.5
+mazda rx2 coupe,1972,Japan,Acceleration,13.5
+amc matador (sw),1972,USA,Acceleration,12.5
+chevrolet chevelle concours (sw),1972,USA,Acceleration,14.0
+ford gran torino (sw),1972,USA,Acceleration,16.0
+plymouth satellite custom (sw),1972,USA,Acceleration,14.0
+volvo 145e (sw),1972,Europe,Acceleration,14.5
+volkswagen 411 (sw),1972,Europe,Acceleration,18.0
+peugeot 504 (sw),1972,Europe,Acceleration,19.5
+renault 12 (sw),1972,Europe,Acceleration,18.0
+ford pinto (sw),1972,USA,Acceleration,16.0
+datsun 510 (sw),1972,Japan,Acceleration,17.0
+toyouta corona mark ii (sw),1972,Japan,Acceleration,14.5
+dodge colt (sw),1972,USA,Acceleration,15.0
+toyota corolla 1600 (sw),1972,Japan,Acceleration,16.5
+buick century 350,1973,USA,Acceleration,13.0
+amc matador,1973,USA,Acceleration,11.5
+chevrolet malibu,1973,USA,Acceleration,13.0
+ford gran torino,1973,USA,Acceleration,14.5
+dodge coronet custom,1973,USA,Acceleration,12.5
+mercury marquis brougham,1973,USA,Acceleration,11.5
+chevrolet caprice classic,1973,USA,Acceleration,12.0
+ford ltd,1973,USA,Acceleration,13.0
+plymouth fury gran sedan,1973,USA,Acceleration,14.5
+chrysler new yorker brougham,1973,USA,Acceleration,11.0
+buick electra 225 custom,1973,USA,Acceleration,11.0
+amc ambassador brougham,1973,USA,Acceleration,11.0
+plymouth valiant,1973,USA,Acceleration,16.5
+chevrolet nova custom,1973,USA,Acceleration,18.0
+amc hornet,1973,USA,Acceleration,16.0
+ford maverick,1973,USA,Acceleration,16.5
+plymouth duster,1973,USA,Acceleration,16.0
+volkswagen super beetle,1973,Europe,Acceleration,21.0
+chevrolet impala,1973,USA,Acceleration,14.0
+ford country,1973,USA,Acceleration,12.5
+plymouth custom suburb,1973,USA,Acceleration,13.0
+oldsmobile vista cruiser,1973,USA,Acceleration,12.5
+amc gremlin,1973,USA,Acceleration,15.0
+toyota carina,1973,Japan,Acceleration,19.0
+chevrolet vega,1973,USA,Acceleration,19.5
+datsun 610,1973,Japan,Acceleration,16.5
+maxda rx3,1973,Japan,Acceleration,13.5
+ford pinto,1973,USA,Acceleration,18.5
+mercury capri v6,1973,USA,Acceleration,14.0
+fiat 124 sport coupe,1973,Europe,Acceleration,15.5
+chevrolet monte carlo s,1973,USA,Acceleration,13.0
+pontiac grand prix,1973,USA,Acceleration,9.5
+fiat 128,1973,Europe,Acceleration,19.5
+opel manta,1973,Europe,Acceleration,15.5
+audi 100ls,1973,Europe,Acceleration,14.0
+volvo 144ea,1973,Europe,Acceleration,15.5
+dodge dart custom,1973,USA,Acceleration,11.0
+saab 99le,1973,Europe,Acceleration,14.0
+toyota mark ii,1973,Japan,Acceleration,13.5
+oldsmobile omega,1973,USA,Acceleration,11.0
+plymouth duster,1974,USA,Acceleration,16.5
+ford maverick,1974,USA,Acceleration,17.0
+amc hornet,1974,USA,Acceleration,16.0
+chevrolet nova,1974,USA,Acceleration,17.0
+datsun b210,1974,Japan,Acceleration,19.0
+ford pinto,1974,USA,Acceleration,16.5
+toyota corolla 1200,1974,Japan,Acceleration,21.0
+chevrolet vega,1974,USA,Acceleration,17.0
+chevrolet chevelle malibu classic,1974,USA,Acceleration,17.0
+amc matador,1974,USA,Acceleration,18.0
+plymouth satellite sebring,1974,USA,Acceleration,16.5
+ford gran torino,1974,USA,Acceleration,14.0
+buick century luxus (sw),1974,USA,Acceleration,14.5
+dodge coronet custom (sw),1974,USA,Acceleration,13.5
+ford gran torino (sw),1974,USA,Acceleration,16.0
+amc matador (sw),1974,USA,Acceleration,15.5
+audi fox,1974,Europe,Acceleration,16.5
+volkswagen dasher,1974,Europe,Acceleration,15.5
+opel manta,1974,Europe,Acceleration,14.5
+toyota corona,1974,Japan,Acceleration,16.5
+datsun 710,1974,Japan,Acceleration,19.0
+dodge colt,1974,USA,Acceleration,14.5
+fiat 128,1974,Europe,Acceleration,15.5
+fiat 124 tc,1974,Europe,Acceleration,14.0
+honda civic,1974,Japan,Acceleration,15.0
+subaru,1974,Japan,Acceleration,15.5
+fiat x1.9,1974,Europe,Acceleration,16.0
+plymouth valiant custom,1975,USA,Acceleration,16.0
+chevrolet nova,1975,USA,Acceleration,16.0
+mercury monarch,1975,USA,Acceleration,21.0
+ford maverick,1975,USA,Acceleration,19.5
+pontiac catalina,1975,USA,Acceleration,11.5
+chevrolet bel air,1975,USA,Acceleration,14.0
+plymouth grand fury,1975,USA,Acceleration,14.5
+ford ltd,1975,USA,Acceleration,13.5
+buick century,1975,USA,Acceleration,21.0
+chevroelt chevelle malibu,1975,USA,Acceleration,18.5
+amc matador,1975,USA,Acceleration,19.0
+plymouth fury,1975,USA,Acceleration,19.0
+buick skyhawk,1975,USA,Acceleration,15.0
+chevrolet monza 2+2,1975,USA,Acceleration,13.5
+ford mustang ii,1975,USA,Acceleration,12.0
+toyota corolla,1975,Japan,Acceleration,16.0
+ford pinto,1975,USA,Acceleration,17.0
+amc gremlin,1975,USA,Acceleration,16.0
+pontiac astro,1975,USA,Acceleration,18.5
+toyota corona,1975,Japan,Acceleration,13.5
+volkswagen dasher,1975,Europe,Acceleration,16.5
+datsun 710,1975,Japan,Acceleration,17.0
+ford pinto,1975,USA,Acceleration,14.5
+volkswagen rabbit,1975,Europe,Acceleration,14.0
+amc pacer,1975,USA,Acceleration,17.0
+audi 100ls,1975,Europe,Acceleration,15.0
+peugeot 504,1975,Europe,Acceleration,17.0
+volvo 244dl,1975,Europe,Acceleration,14.5
+saab 99le,1975,Europe,Acceleration,13.5
+honda civic cvcc,1975,Japan,Acceleration,17.5
+fiat 131,1976,Europe,Acceleration,15.5
+opel 1900,1976,Europe,Acceleration,16.9
+capri ii,1976,USA,Acceleration,14.9
+dodge colt,1976,USA,Acceleration,17.7
+renault 12tl,1976,Europe,Acceleration,15.3
+chevrolet chevelle malibu classic,1976,USA,Acceleration,13.0
+dodge coronet brougham,1976,USA,Acceleration,13.0
+amc matador,1976,USA,Acceleration,13.9
+ford gran torino,1976,USA,Acceleration,12.8
+plymouth valiant,1976,USA,Acceleration,15.4
+chevrolet nova,1976,USA,Acceleration,14.5
+ford maverick,1976,USA,Acceleration,17.6
+amc hornet,1976,USA,Acceleration,17.6
+chevrolet chevette,1976,USA,Acceleration,22.2
+chevrolet woody,1976,USA,Acceleration,22.1
+vw rabbit,1976,Europe,Acceleration,14.2
+honda civic,1976,Japan,Acceleration,17.4
+dodge aspen se,1976,USA,Acceleration,17.7
+ford granada ghia,1976,USA,Acceleration,21.0
+pontiac ventura sj,1976,USA,Acceleration,16.2
+amc pacer d/l,1976,USA,Acceleration,17.8
+volkswagen rabbit,1976,Europe,Acceleration,12.2
+datsun b-210,1976,Japan,Acceleration,17.0
+toyota corolla,1976,Japan,Acceleration,16.4
+ford pinto,1976,USA,Acceleration,13.6
+volvo 245,1976,Europe,Acceleration,15.7
+plymouth volare premier v8,1976,USA,Acceleration,13.2
+peugeot 504,1976,Europe,Acceleration,21.9
+toyota mark ii,1976,Japan,Acceleration,15.5
+mercedes-benz 280s,1976,Europe,Acceleration,16.7
+cadillac seville,1976,USA,Acceleration,12.1
+chevy c10,1976,USA,Acceleration,12.0
+ford f108,1976,USA,Acceleration,15.0
+dodge d100,1976,USA,Acceleration,14.0
+honda accord cvcc,1977,Japan,Acceleration,18.5
+buick opel isuzu deluxe,1977,USA,Acceleration,14.8
+renault 5 gtl,1977,Europe,Acceleration,18.6
+plymouth arrow gs,1977,USA,Acceleration,15.5
+datsun f-10 hatchback,1977,Japan,Acceleration,16.8
+chevrolet caprice classic,1977,USA,Acceleration,12.5
+oldsmobile cutlass supreme,1977,USA,Acceleration,19.0
+dodge monaco brougham,1977,USA,Acceleration,13.7
+mercury cougar brougham,1977,USA,Acceleration,14.9
+chevrolet concours,1977,USA,Acceleration,16.4
+buick skylark,1977,USA,Acceleration,16.9
+plymouth volare custom,1977,USA,Acceleration,17.7
+ford granada,1977,USA,Acceleration,19.0
+pontiac grand prix lj,1977,USA,Acceleration,11.1
+chevrolet monte carlo landau,1977,USA,Acceleration,11.4
+chrysler cordoba,1977,USA,Acceleration,12.2
+ford thunderbird,1977,USA,Acceleration,14.5
+volkswagen rabbit custom,1977,Europe,Acceleration,14.5
+pontiac sunbird coupe,1977,USA,Acceleration,16.0
+toyota corolla liftback,1977,Japan,Acceleration,18.2
+ford mustang ii 2+2,1977,USA,Acceleration,15.8
+chevrolet chevette,1977,USA,Acceleration,17.0
+dodge colt m/m,1977,USA,Acceleration,15.9
+subaru dl,1977,Japan,Acceleration,16.4
+volkswagen dasher,1977,Europe,Acceleration,14.1
+datsun 810,1977,Japan,Acceleration,14.5
+bmw 320i,1977,Europe,Acceleration,12.8
+mazda rx-4,1977,Japan,Acceleration,13.5
+volkswagen rabbit custom diesel,1978,Europe,Acceleration,21.5
+ford fiesta,1978,USA,Acceleration,14.4
+mazda glc deluxe,1978,Japan,Acceleration,19.4
+datsun b210 gx,1978,Japan,Acceleration,18.6
+honda civic cvcc,1978,Japan,Acceleration,16.4
+oldsmobile cutlass salon brougham,1978,USA,Acceleration,15.5
+dodge diplomat,1978,USA,Acceleration,13.2
+mercury monarch ghia,1978,USA,Acceleration,12.8
+pontiac phoenix lj,1978,USA,Acceleration,19.2
+chevrolet malibu,1978,USA,Acceleration,18.2
+ford fairmont (auto),1978,USA,Acceleration,15.8
+ford fairmont (man),1978,USA,Acceleration,15.4
+plymouth volare,1978,USA,Acceleration,17.2
+amc concord,1978,USA,Acceleration,17.2
+buick century special,1978,USA,Acceleration,15.8
+mercury zephyr,1978,USA,Acceleration,16.7
+dodge aspen,1978,USA,Acceleration,18.7
+amc concord d/l,1978,USA,Acceleration,15.1
+chevrolet monte carlo landau,1978,USA,Acceleration,13.2
+buick regal sport coupe (turbo),1978,USA,Acceleration,13.4
+ford futura,1978,USA,Acceleration,11.2
+dodge magnum xe,1978,USA,Acceleration,13.7
+chevrolet chevette,1978,USA,Acceleration,16.5
+toyota corona,1978,Japan,Acceleration,14.2
+datsun 510,1978,Japan,Acceleration,14.7
+dodge omni,1978,USA,Acceleration,14.5
+toyota celica gt liftback,1978,Japan,Acceleration,14.8
+plymouth sapporo,1978,USA,Acceleration,16.7
+oldsmobile starfire sx,1978,USA,Acceleration,17.6
+datsun 200-sx,1978,Japan,Acceleration,14.9
+audi 5000,1978,Europe,Acceleration,15.9
+volvo 264gl,1978,Europe,Acceleration,13.6
+saab 99gle,1978,Europe,Acceleration,15.7
+peugeot 604sl,1978,Europe,Acceleration,15.8
+volkswagen scirocco,1978,Europe,Acceleration,14.9
+honda accord lx,1978,Japan,Acceleration,16.6
+pontiac lemans v6,1979,USA,Acceleration,15.4
+mercury zephyr 6,1979,USA,Acceleration,18.2
+ford fairmont 4,1979,USA,Acceleration,17.3
+amc concord dl 6,1979,USA,Acceleration,18.2
+dodge aspen 6,1979,USA,Acceleration,16.6
+chevrolet caprice classic,1979,USA,Acceleration,15.4
+ford ltd landau,1979,USA,Acceleration,13.4
+mercury grand marquis,1979,USA,Acceleration,13.2
+dodge st. regis,1979,USA,Acceleration,15.2
+buick estate wagon (sw),1979,USA,Acceleration,14.9
+ford country squire (sw),1979,USA,Acceleration,14.3
+chevrolet malibu classic (sw),1979,USA,Acceleration,15.0
+chrysler lebaron town @ country (sw),1979,USA,Acceleration,13.0
+vw rabbit custom,1979,Europe,Acceleration,14.0
+maxda glc deluxe,1979,Japan,Acceleration,15.2
+dodge colt hatchback custom,1979,USA,Acceleration,14.4
+amc spirit dl,1979,USA,Acceleration,15.0
+mercedes benz 300d,1979,Europe,Acceleration,20.1
+cadillac eldorado,1979,USA,Acceleration,17.4
+peugeot 504,1979,Europe,Acceleration,24.8
+oldsmobile cutlass salon brougham,1979,USA,Acceleration,22.2
+plymouth horizon,1979,USA,Acceleration,13.2
+plymouth horizon tc3,1979,USA,Acceleration,14.9
+datsun 210,1979,Japan,Acceleration,19.2
+fiat strada custom,1979,Europe,Acceleration,14.7
+buick skylark limited,1979,USA,Acceleration,16.0
+chevrolet citation,1979,USA,Acceleration,11.3
+oldsmobile omega brougham,1979,USA,Acceleration,12.9
+pontiac phoenix,1979,USA,Acceleration,13.2
+vw rabbit,1980,Europe,Acceleration,14.7
+toyota corolla tercel,1980,Japan,Acceleration,18.8
+chevrolet chevette,1980,USA,Acceleration,15.5
+datsun 310,1980,Japan,Acceleration,16.4
+chevrolet citation,1980,USA,Acceleration,16.5
+ford fairmont,1980,USA,Acceleration,18.1
+amc concord,1980,USA,Acceleration,20.1
+dodge aspen,1980,USA,Acceleration,18.7
+audi 4000,1980,Europe,Acceleration,15.8
+toyota corona liftback,1980,Japan,Acceleration,15.5
+mazda 626,1980,Japan,Acceleration,17.5
+datsun 510 hatchback,1980,Japan,Acceleration,15.0
+toyota corolla,1980,Japan,Acceleration,15.2
+mazda glc,1980,Japan,Acceleration,17.9
+dodge colt,1980,USA,Acceleration,14.4
+datsun 210,1980,Japan,Acceleration,19.2
+vw rabbit c (diesel),1980,Europe,Acceleration,21.7
+vw dasher (diesel),1980,Europe,Acceleration,23.7
+audi 5000s (diesel),1980,Europe,Acceleration,19.9
+mercedes-benz 240d,1980,Europe,Acceleration,21.8
+honda civic 1500 gl,1980,Japan,Acceleration,13.8
+renault lecar deluxe,1980,Europe,Acceleration,17.3
+subaru dl,1980,Japan,Acceleration,18.0
+vokswagen rabbit,1980,Europe,Acceleration,15.3
+datsun 280-zx,1980,Japan,Acceleration,11.4
+mazda rx-7 gs,1980,Japan,Acceleration,12.5
+triumph tr7 coupe,1980,Europe,Acceleration,15.1
+ford mustang cobra,1980,USA,Acceleration,14.3
+honda accord,1980,Japan,Acceleration,17.0
+plymouth reliant,1981,USA,Acceleration,15.7
+buick skylark,1981,USA,Acceleration,16.4
+dodge aries wagon (sw),1981,USA,Acceleration,14.4
+chevrolet citation,1981,USA,Acceleration,12.6
+plymouth reliant,1981,USA,Acceleration,12.9
+toyota starlet,1981,Japan,Acceleration,16.9
+plymouth champ,1981,USA,Acceleration,16.4
+honda civic 1300,1981,Japan,Acceleration,16.1
+subaru,1981,Japan,Acceleration,17.8
+datsun 210 mpg,1981,Japan,Acceleration,19.4
+toyota tercel,1981,Japan,Acceleration,17.3
+mazda glc 4,1981,Japan,Acceleration,16.0
+plymouth horizon 4,1981,USA,Acceleration,14.9
+ford escort 4w,1981,USA,Acceleration,16.2
+ford escort 2h,1981,USA,Acceleration,20.7
+volkswagen jetta,1981,Europe,Acceleration,14.2
+renault 18i,1981,Europe,Acceleration,15.8
+honda prelude,1981,Japan,Acceleration,14.4
+toyota corolla,1981,Japan,Acceleration,16.8
+datsun 200sx,1981,Japan,Acceleration,14.8
+mazda 626,1981,Japan,Acceleration,18.3
+peugeot 505s turbo diesel,1981,Europe,Acceleration,20.4
+volvo diesel,1981,Europe,Acceleration,19.6
+toyota cressida,1981,Japan,Acceleration,12.6
+datsun 810 maxima,1981,Japan,Acceleration,13.8
+buick century,1981,USA,Acceleration,15.8
+oldsmobile cutlass ls,1981,USA,Acceleration,19.0
+ford granada gl,1981,USA,Acceleration,17.1
+chrysler lebaron salon,1981,USA,Acceleration,16.6
+chevrolet cavalier,1982,USA,Acceleration,19.6
+chevrolet cavalier wagon,1982,USA,Acceleration,18.6
+chevrolet cavalier 2-door,1982,USA,Acceleration,18.0
+pontiac j2000 se hatchback,1982,USA,Acceleration,16.2
+dodge aries se,1982,USA,Acceleration,16.0
+pontiac phoenix,1982,USA,Acceleration,18.0
+ford fairmont futura,1982,USA,Acceleration,16.4
+amc concord dl,1982,USA,Acceleration,20.5
+volkswagen rabbit l,1982,Europe,Acceleration,15.3
+mazda glc custom l,1982,Japan,Acceleration,18.2
+mazda glc custom,1982,Japan,Acceleration,17.6
+plymouth horizon miser,1982,USA,Acceleration,14.7
+mercury lynx l,1982,USA,Acceleration,17.3
+nissan stanza xe,1982,Japan,Acceleration,14.5
+honda accord,1982,Japan,Acceleration,14.5
+toyota corolla,1982,Japan,Acceleration,16.9
+honda civic,1982,Japan,Acceleration,15.0
+honda civic (auto),1982,Japan,Acceleration,15.7
+datsun 310 gx,1982,Japan,Acceleration,16.2
+buick century limited,1982,USA,Acceleration,16.4
+oldsmobile cutlass ciera (diesel),1982,USA,Acceleration,17.0
+chrysler lebaron medallion,1982,USA,Acceleration,14.5
+ford granada l,1982,USA,Acceleration,14.7
+toyota celica gt,1982,Japan,Acceleration,13.9
+dodge charger 2.2,1982,USA,Acceleration,13.0
+chevrolet camaro,1982,USA,Acceleration,17.3
+ford mustang gl,1982,USA,Acceleration,15.6
+vw pickup,1982,Europe,Acceleration,24.6
+dodge rampage,1982,USA,Acceleration,11.6
+ford ranger,1982,USA,Acceleration,18.6
+chevy s-10,1982,USA,Acceleration,19.4
+chevrolet chevelle malibu,1970,USA,Mileage,18.0
+buick skylark 320,1970,USA,Mileage,15.0
+plymouth satellite,1970,USA,Mileage,18.0
+amc rebel sst,1970,USA,Mileage,16.0
+ford torino,1970,USA,Mileage,17.0
+ford galaxie 500,1970,USA,Mileage,15.0
+chevrolet impala,1970,USA,Mileage,14.0
+plymouth fury iii,1970,USA,Mileage,14.0
+pontiac catalina,1970,USA,Mileage,14.0
+amc ambassador dpl,1970,USA,Mileage,15.0
+dodge challenger se,1970,USA,Mileage,15.0
+plymouth 'cuda 340,1970,USA,Mileage,14.0
+chevrolet monte carlo,1970,USA,Mileage,15.0
+buick estate wagon (sw),1970,USA,Mileage,14.0
+toyota corona mark ii,1970,Japan,Mileage,24.0
+plymouth duster,1970,USA,Mileage,22.0
+amc hornet,1970,USA,Mileage,18.0
+ford maverick,1970,USA,Mileage,21.0
+datsun pl510,1970,Japan,Mileage,27.0
+volkswagen 1131 deluxe sedan,1970,Europe,Mileage,26.0
+peugeot 504,1970,Europe,Mileage,25.0
+audi 100 ls,1970,Europe,Mileage,24.0
+saab 99e,1970,Europe,Mileage,25.0
+bmw 2002,1970,Europe,Mileage,26.0
+amc gremlin,1970,USA,Mileage,21.0
+ford f250,1970,USA,Mileage,10.0
+chevy c20,1970,USA,Mileage,10.0
+dodge d200,1970,USA,Mileage,11.0
+hi 1200d,1970,USA,Mileage,9.0
+datsun pl510,1971,Japan,Mileage,27.0
+chevrolet vega 2300,1971,USA,Mileage,28.0
+toyota corona,1971,Japan,Mileage,25.0
+ford pinto,1971,USA,Mileage,25.0
+amc gremlin,1971,USA,Mileage,19.0
+plymouth satellite custom,1971,USA,Mileage,16.0
+chevrolet chevelle malibu,1971,USA,Mileage,17.0
+ford torino 500,1971,USA,Mileage,19.0
+amc matador,1971,USA,Mileage,18.0
+chevrolet impala,1971,USA,Mileage,14.0
+pontiac catalina brougham,1971,USA,Mileage,14.0
+ford galaxie 500,1971,USA,Mileage,14.0
+plymouth fury iii,1971,USA,Mileage,14.0
+dodge monaco (sw),1971,USA,Mileage,12.0
+ford country squire (sw),1971,USA,Mileage,13.0
+pontiac safari (sw),1971,USA,Mileage,13.0
+amc hornet sportabout (sw),1971,USA,Mileage,18.0
+chevrolet vega (sw),1971,USA,Mileage,22.0
+pontiac firebird,1971,USA,Mileage,19.0
+ford mustang,1971,USA,Mileage,18.0
+mercury capri 2000,1971,USA,Mileage,23.0
+opel 1900,1971,Europe,Mileage,28.0
+peugeot 304,1971,Europe,Mileage,30.0
+fiat 124b,1971,Europe,Mileage,30.0
+toyota corolla 1200,1971,Japan,Mileage,31.0
+datsun 1200,1971,Japan,Mileage,35.0
+volkswagen model 111,1971,Europe,Mileage,27.0
+plymouth cricket,1971,USA,Mileage,26.0
+toyota corona hardtop,1972,Japan,Mileage,24.0
+dodge colt hardtop,1972,USA,Mileage,25.0
+volkswagen type 3,1972,Europe,Mileage,23.0
+chevrolet vega,1972,USA,Mileage,20.0
+ford pinto runabout,1972,USA,Mileage,21.0
+chevrolet impala,1972,USA,Mileage,13.0
+pontiac catalina,1972,USA,Mileage,14.0
+plymouth fury iii,1972,USA,Mileage,15.0
+ford galaxie 500,1972,USA,Mileage,14.0
+amc ambassador sst,1972,USA,Mileage,17.0
+mercury marquis,1972,USA,Mileage,11.0
+buick lesabre custom,1972,USA,Mileage,13.0
+oldsmobile delta 88 royale,1972,USA,Mileage,12.0
+chrysler newport royal,1972,USA,Mileage,13.0
+mazda rx2 coupe,1972,Japan,Mileage,19.0
+amc matador (sw),1972,USA,Mileage,15.0
+chevrolet chevelle concours (sw),1972,USA,Mileage,13.0
+ford gran torino (sw),1972,USA,Mileage,13.0
+plymouth satellite custom (sw),1972,USA,Mileage,14.0
+volvo 145e (sw),1972,Europe,Mileage,18.0
+volkswagen 411 (sw),1972,Europe,Mileage,22.0
+peugeot 504 (sw),1972,Europe,Mileage,21.0
+renault 12 (sw),1972,Europe,Mileage,26.0
+ford pinto (sw),1972,USA,Mileage,22.0
+datsun 510 (sw),1972,Japan,Mileage,28.0
+toyouta corona mark ii (sw),1972,Japan,Mileage,23.0
+dodge colt (sw),1972,USA,Mileage,28.0
+toyota corolla 1600 (sw),1972,Japan,Mileage,27.0
+buick century 350,1973,USA,Mileage,13.0
+amc matador,1973,USA,Mileage,14.0
+chevrolet malibu,1973,USA,Mileage,13.0
+ford gran torino,1973,USA,Mileage,14.0
+dodge coronet custom,1973,USA,Mileage,15.0
+mercury marquis brougham,1973,USA,Mileage,12.0
+chevrolet caprice classic,1973,USA,Mileage,13.0
+ford ltd,1973,USA,Mileage,13.0
+plymouth fury gran sedan,1973,USA,Mileage,14.0
+chrysler new yorker brougham,1973,USA,Mileage,13.0
+buick electra 225 custom,1973,USA,Mileage,12.0
+amc ambassador brougham,1973,USA,Mileage,13.0
+plymouth valiant,1973,USA,Mileage,18.0
+chevrolet nova custom,1973,USA,Mileage,16.0
+amc hornet,1973,USA,Mileage,18.0
+ford maverick,1973,USA,Mileage,18.0
+plymouth duster,1973,USA,Mileage,23.0
+volkswagen super beetle,1973,Europe,Mileage,26.0
+chevrolet impala,1973,USA,Mileage,11.0
+ford country,1973,USA,Mileage,12.0
+plymouth custom suburb,1973,USA,Mileage,13.0
+oldsmobile vista cruiser,1973,USA,Mileage,12.0
+amc gremlin,1973,USA,Mileage,18.0
+toyota carina,1973,Japan,Mileage,20.0
+chevrolet vega,1973,USA,Mileage,21.0
+datsun 610,1973,Japan,Mileage,22.0
+maxda rx3,1973,Japan,Mileage,18.0
+ford pinto,1973,USA,Mileage,19.0
+mercury capri v6,1973,USA,Mileage,21.0
+fiat 124 sport coupe,1973,Europe,Mileage,26.0
+chevrolet monte carlo s,1973,USA,Mileage,15.0
+pontiac grand prix,1973,USA,Mileage,16.0
+fiat 128,1973,Europe,Mileage,29.0
+opel manta,1973,Europe,Mileage,24.0
+audi 100ls,1973,Europe,Mileage,20.0
+volvo 144ea,1973,Europe,Mileage,19.0
+dodge dart custom,1973,USA,Mileage,15.0
+saab 99le,1973,Europe,Mileage,24.0
+toyota mark ii,1973,Japan,Mileage,20.0
+oldsmobile omega,1973,USA,Mileage,11.0
+plymouth duster,1974,USA,Mileage,20.0
+ford maverick,1974,USA,Mileage,21.0
+amc hornet,1974,USA,Mileage,19.0
+chevrolet nova,1974,USA,Mileage,15.0
+datsun b210,1974,Japan,Mileage,31.0
+ford pinto,1974,USA,Mileage,26.0
+toyota corolla 1200,1974,Japan,Mileage,32.0
+chevrolet vega,1974,USA,Mileage,25.0
+chevrolet chevelle malibu classic,1974,USA,Mileage,16.0
+amc matador,1974,USA,Mileage,16.0
+plymouth satellite sebring,1974,USA,Mileage,18.0
+ford gran torino,1974,USA,Mileage,16.0
+buick century luxus (sw),1974,USA,Mileage,13.0
+dodge coronet custom (sw),1974,USA,Mileage,14.0
+ford gran torino (sw),1974,USA,Mileage,14.0
+amc matador (sw),1974,USA,Mileage,14.0
+audi fox,1974,Europe,Mileage,29.0
+volkswagen dasher,1974,Europe,Mileage,26.0
+opel manta,1974,Europe,Mileage,26.0
+toyota corona,1974,Japan,Mileage,31.0
+datsun 710,1974,Japan,Mileage,32.0
+dodge colt,1974,USA,Mileage,28.0
+fiat 128,1974,Europe,Mileage,24.0
+fiat 124 tc,1974,Europe,Mileage,26.0
+honda civic,1974,Japan,Mileage,24.0
+subaru,1974,Japan,Mileage,26.0
+fiat x1.9,1974,Europe,Mileage,31.0
+plymouth valiant custom,1975,USA,Mileage,19.0
+chevrolet nova,1975,USA,Mileage,18.0
+mercury monarch,1975,USA,Mileage,15.0
+ford maverick,1975,USA,Mileage,15.0
+pontiac catalina,1975,USA,Mileage,16.0
+chevrolet bel air,1975,USA,Mileage,15.0
+plymouth grand fury,1975,USA,Mileage,16.0
+ford ltd,1975,USA,Mileage,14.0
+buick century,1975,USA,Mileage,17.0
+chevroelt chevelle malibu,1975,USA,Mileage,16.0
+amc matador,1975,USA,Mileage,15.0
+plymouth fury,1975,USA,Mileage,18.0
+buick skyhawk,1975,USA,Mileage,21.0
+chevrolet monza 2+2,1975,USA,Mileage,20.0
+ford mustang ii,1975,USA,Mileage,13.0
+toyota corolla,1975,Japan,Mileage,29.0
+ford pinto,1975,USA,Mileage,23.0
+amc gremlin,1975,USA,Mileage,20.0
+pontiac astro,1975,USA,Mileage,23.0
+toyota corona,1975,Japan,Mileage,24.0
+volkswagen dasher,1975,Europe,Mileage,25.0
+datsun 710,1975,Japan,Mileage,24.0
+ford pinto,1975,USA,Mileage,18.0
+volkswagen rabbit,1975,Europe,Mileage,29.0
+amc pacer,1975,USA,Mileage,19.0
+audi 100ls,1975,Europe,Mileage,23.0
+peugeot 504,1975,Europe,Mileage,23.0
+volvo 244dl,1975,Europe,Mileage,22.0
+saab 99le,1975,Europe,Mileage,25.0
+honda civic cvcc,1975,Japan,Mileage,33.0
+fiat 131,1976,Europe,Mileage,28.0
+opel 1900,1976,Europe,Mileage,25.0
+capri ii,1976,USA,Mileage,25.0
+dodge colt,1976,USA,Mileage,26.0
+renault 12tl,1976,Europe,Mileage,27.0
+chevrolet chevelle malibu classic,1976,USA,Mileage,17.5
+dodge coronet brougham,1976,USA,Mileage,16.0
+amc matador,1976,USA,Mileage,15.5
+ford gran torino,1976,USA,Mileage,14.5
+plymouth valiant,1976,USA,Mileage,22.0
+chevrolet nova,1976,USA,Mileage,22.0
+ford maverick,1976,USA,Mileage,24.0
+amc hornet,1976,USA,Mileage,22.5
+chevrolet chevette,1976,USA,Mileage,29.0
+chevrolet woody,1976,USA,Mileage,24.5
+vw rabbit,1976,Europe,Mileage,29.0
+honda civic,1976,Japan,Mileage,33.0
+dodge aspen se,1976,USA,Mileage,20.0
+ford granada ghia,1976,USA,Mileage,18.0
+pontiac ventura sj,1976,USA,Mileage,18.5
+amc pacer d/l,1976,USA,Mileage,17.5
+volkswagen rabbit,1976,Europe,Mileage,29.5
+datsun b-210,1976,Japan,Mileage,32.0
+toyota corolla,1976,Japan,Mileage,28.0
+ford pinto,1976,USA,Mileage,26.5
+volvo 245,1976,Europe,Mileage,20.0
+plymouth volare premier v8,1976,USA,Mileage,13.0
+peugeot 504,1976,Europe,Mileage,19.0
+toyota mark ii,1976,Japan,Mileage,19.0
+mercedes-benz 280s,1976,Europe,Mileage,16.5
+cadillac seville,1976,USA,Mileage,16.5
+chevy c10,1976,USA,Mileage,13.0
+ford f108,1976,USA,Mileage,13.0
+dodge d100,1976,USA,Mileage,13.0
+honda accord cvcc,1977,Japan,Mileage,31.5
+buick opel isuzu deluxe,1977,USA,Mileage,30.0
+renault 5 gtl,1977,Europe,Mileage,36.0
+plymouth arrow gs,1977,USA,Mileage,25.5
+datsun f-10 hatchback,1977,Japan,Mileage,33.5
+chevrolet caprice classic,1977,USA,Mileage,17.5
+oldsmobile cutlass supreme,1977,USA,Mileage,17.0
+dodge monaco brougham,1977,USA,Mileage,15.5
+mercury cougar brougham,1977,USA,Mileage,15.0
+chevrolet concours,1977,USA,Mileage,17.5
+buick skylark,1977,USA,Mileage,20.5
+plymouth volare custom,1977,USA,Mileage,19.0
+ford granada,1977,USA,Mileage,18.5
+pontiac grand prix lj,1977,USA,Mileage,16.0
+chevrolet monte carlo landau,1977,USA,Mileage,15.5
+chrysler cordoba,1977,USA,Mileage,15.5
+ford thunderbird,1977,USA,Mileage,16.0
+volkswagen rabbit custom,1977,Europe,Mileage,29.0
+pontiac sunbird coupe,1977,USA,Mileage,24.5
+toyota corolla liftback,1977,Japan,Mileage,26.0
+ford mustang ii 2+2,1977,USA,Mileage,25.5
+chevrolet chevette,1977,USA,Mileage,30.5
+dodge colt m/m,1977,USA,Mileage,33.5
+subaru dl,1977,Japan,Mileage,30.0
+volkswagen dasher,1977,Europe,Mileage,30.5
+datsun 810,1977,Japan,Mileage,22.0
+bmw 320i,1977,Europe,Mileage,21.5
+mazda rx-4,1977,Japan,Mileage,21.5
+volkswagen rabbit custom diesel,1978,Europe,Mileage,43.1
+ford fiesta,1978,USA,Mileage,36.1
+mazda glc deluxe,1978,Japan,Mileage,32.8
+datsun b210 gx,1978,Japan,Mileage,39.4
+honda civic cvcc,1978,Japan,Mileage,36.1
+oldsmobile cutlass salon brougham,1978,USA,Mileage,19.9
+dodge diplomat,1978,USA,Mileage,19.4
+mercury monarch ghia,1978,USA,Mileage,20.2
+pontiac phoenix lj,1978,USA,Mileage,19.2
+chevrolet malibu,1978,USA,Mileage,20.5
+ford fairmont (auto),1978,USA,Mileage,20.2
+ford fairmont (man),1978,USA,Mileage,25.1
+plymouth volare,1978,USA,Mileage,20.5
+amc concord,1978,USA,Mileage,19.4
+buick century special,1978,USA,Mileage,20.6
+mercury zephyr,1978,USA,Mileage,20.8
+dodge aspen,1978,USA,Mileage,18.6
+amc concord d/l,1978,USA,Mileage,18.1
+chevrolet monte carlo landau,1978,USA,Mileage,19.2
+buick regal sport coupe (turbo),1978,USA,Mileage,17.7
+ford futura,1978,USA,Mileage,18.1
+dodge magnum xe,1978,USA,Mileage,17.5
+chevrolet chevette,1978,USA,Mileage,30.0
+toyota corona,1978,Japan,Mileage,27.5
+datsun 510,1978,Japan,Mileage,27.2
+dodge omni,1978,USA,Mileage,30.9
+toyota celica gt liftback,1978,Japan,Mileage,21.1
+plymouth sapporo,1978,USA,Mileage,23.2
+oldsmobile starfire sx,1978,USA,Mileage,23.8
+datsun 200-sx,1978,Japan,Mileage,23.9
+audi 5000,1978,Europe,Mileage,20.3
+volvo 264gl,1978,Europe,Mileage,17.0
+saab 99gle,1978,Europe,Mileage,21.6
+peugeot 604sl,1978,Europe,Mileage,16.2
+volkswagen scirocco,1978,Europe,Mileage,31.5
+honda accord lx,1978,Japan,Mileage,29.5
+pontiac lemans v6,1979,USA,Mileage,21.5
+mercury zephyr 6,1979,USA,Mileage,19.8
+ford fairmont 4,1979,USA,Mileage,22.3
+amc concord dl 6,1979,USA,Mileage,20.2
+dodge aspen 6,1979,USA,Mileage,20.6
+chevrolet caprice classic,1979,USA,Mileage,17.0
+ford ltd landau,1979,USA,Mileage,17.6
+mercury grand marquis,1979,USA,Mileage,16.5
+dodge st. regis,1979,USA,Mileage,18.2
+buick estate wagon (sw),1979,USA,Mileage,16.9
+ford country squire (sw),1979,USA,Mileage,15.5
+chevrolet malibu classic (sw),1979,USA,Mileage,19.2
+chrysler lebaron town @ country (sw),1979,USA,Mileage,18.5
+vw rabbit custom,1979,Europe,Mileage,31.9
+maxda glc deluxe,1979,Japan,Mileage,34.1
+dodge colt hatchback custom,1979,USA,Mileage,35.7
+amc spirit dl,1979,USA,Mileage,27.4
+mercedes benz 300d,1979,Europe,Mileage,25.4
+cadillac eldorado,1979,USA,Mileage,23.0
+peugeot 504,1979,Europe,Mileage,27.2
+oldsmobile cutlass salon brougham,1979,USA,Mileage,23.9
+plymouth horizon,1979,USA,Mileage,34.2
+plymouth horizon tc3,1979,USA,Mileage,34.5
+datsun 210,1979,Japan,Mileage,31.8
+fiat strada custom,1979,Europe,Mileage,37.3
+buick skylark limited,1979,USA,Mileage,28.4
+chevrolet citation,1979,USA,Mileage,28.8
+oldsmobile omega brougham,1979,USA,Mileage,26.8
+pontiac phoenix,1979,USA,Mileage,33.5
+vw rabbit,1980,Europe,Mileage,41.5
+toyota corolla tercel,1980,Japan,Mileage,38.1
+chevrolet chevette,1980,USA,Mileage,32.1
+datsun 310,1980,Japan,Mileage,37.2
+chevrolet citation,1980,USA,Mileage,28.0
+ford fairmont,1980,USA,Mileage,26.4
+amc concord,1980,USA,Mileage,24.3
+dodge aspen,1980,USA,Mileage,19.1
+audi 4000,1980,Europe,Mileage,34.3
+toyota corona liftback,1980,Japan,Mileage,29.8
+mazda 626,1980,Japan,Mileage,31.3
+datsun 510 hatchback,1980,Japan,Mileage,37.0
+toyota corolla,1980,Japan,Mileage,32.2
+mazda glc,1980,Japan,Mileage,46.6
+dodge colt,1980,USA,Mileage,27.9
+datsun 210,1980,Japan,Mileage,40.8
+vw rabbit c (diesel),1980,Europe,Mileage,44.3
+vw dasher (diesel),1980,Europe,Mileage,43.4
+audi 5000s (diesel),1980,Europe,Mileage,36.4
+mercedes-benz 240d,1980,Europe,Mileage,30.0
+honda civic 1500 gl,1980,Japan,Mileage,44.6
+renault lecar deluxe,1980,Europe,Mileage,40.9
+subaru dl,1980,Japan,Mileage,33.8
+vokswagen rabbit,1980,Europe,Mileage,29.8
+datsun 280-zx,1980,Japan,Mileage,32.7
+mazda rx-7 gs,1980,Japan,Mileage,23.7
+triumph tr7 coupe,1980,Europe,Mileage,35.0
+ford mustang cobra,1980,USA,Mileage,23.6
+honda accord,1980,Japan,Mileage,32.4
+plymouth reliant,1981,USA,Mileage,27.2
+buick skylark,1981,USA,Mileage,26.6
+dodge aries wagon (sw),1981,USA,Mileage,25.8
+chevrolet citation,1981,USA,Mileage,23.5
+plymouth reliant,1981,USA,Mileage,30.0
+toyota starlet,1981,Japan,Mileage,39.1
+plymouth champ,1981,USA,Mileage,39.0
+honda civic 1300,1981,Japan,Mileage,35.1
+subaru,1981,Japan,Mileage,32.3
+datsun 210 mpg,1981,Japan,Mileage,37.0
+toyota tercel,1981,Japan,Mileage,37.7
+mazda glc 4,1981,Japan,Mileage,34.1
+plymouth horizon 4,1981,USA,Mileage,34.7
+ford escort 4w,1981,USA,Mileage,34.4
+ford escort 2h,1981,USA,Mileage,29.9
+volkswagen jetta,1981,Europe,Mileage,33.0
+renault 18i,1981,Europe,Mileage,34.5
+honda prelude,1981,Japan,Mileage,33.7
+toyota corolla,1981,Japan,Mileage,32.4
+datsun 200sx,1981,Japan,Mileage,32.9
+mazda 626,1981,Japan,Mileage,31.6
+peugeot 505s turbo diesel,1981,Europe,Mileage,28.1
+volvo diesel,1981,Europe,Mileage,30.7
+toyota cressida,1981,Japan,Mileage,25.4
+datsun 810 maxima,1981,Japan,Mileage,24.2
+buick century,1981,USA,Mileage,22.4
+oldsmobile cutlass ls,1981,USA,Mileage,26.6
+ford granada gl,1981,USA,Mileage,20.2
+chrysler lebaron salon,1981,USA,Mileage,17.6
+chevrolet cavalier,1982,USA,Mileage,28.0
+chevrolet cavalier wagon,1982,USA,Mileage,27.0
+chevrolet cavalier 2-door,1982,USA,Mileage,34.0
+pontiac j2000 se hatchback,1982,USA,Mileage,31.0
+dodge aries se,1982,USA,Mileage,29.0
+pontiac phoenix,1982,USA,Mileage,27.0
+ford fairmont futura,1982,USA,Mileage,24.0
+amc concord dl,1982,USA,Mileage,23.0
+volkswagen rabbit l,1982,Europe,Mileage,36.0
+mazda glc custom l,1982,Japan,Mileage,37.0
+mazda glc custom,1982,Japan,Mileage,31.0
+plymouth horizon miser,1982,USA,Mileage,38.0
+mercury lynx l,1982,USA,Mileage,36.0
+nissan stanza xe,1982,Japan,Mileage,36.0
+honda accord,1982,Japan,Mileage,36.0
+toyota corolla,1982,Japan,Mileage,34.0
+honda civic,1982,Japan,Mileage,38.0
+honda civic (auto),1982,Japan,Mileage,32.0
+datsun 310 gx,1982,Japan,Mileage,38.0
+buick century limited,1982,USA,Mileage,25.0
+oldsmobile cutlass ciera (diesel),1982,USA,Mileage,38.0
+chrysler lebaron medallion,1982,USA,Mileage,26.0
+ford granada l,1982,USA,Mileage,22.0
+toyota celica gt,1982,Japan,Mileage,32.0
+dodge charger 2.2,1982,USA,Mileage,36.0
+chevrolet camaro,1982,USA,Mileage,27.0
+ford mustang gl,1982,USA,Mileage,27.0
+vw pickup,1982,Europe,Mileage,44.0
+dodge rampage,1982,USA,Mileage,32.0
+ford ranger,1982,USA,Mileage,28.0
+chevy s-10,1982,USA,Mileage,31.0
